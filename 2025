@@ -6875,10 +6875,15 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="LIVE | TIMNAS🇮🇩", INDONESIA VS CHINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="LIVE | TIMNAS🇮🇩", LIVE 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png.jpg" group-title="LIVE | TIMNAS🇮🇩", LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
 
 
 
