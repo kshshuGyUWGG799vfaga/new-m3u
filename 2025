@@ -8620,6 +8620,8 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 =========================================== HBO GROUP ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | HBO GRUP
 
+
+
 #EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: Cinemax HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302227.ts
 
@@ -9485,8 +9487,10 @@ https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="CHANNEL | SPORTS",MY | Astro Arena 2
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="CHANNEL | SPORTS",MY | MUTV
-http://zoneuk.club:80/1122334455/6677889900/709253
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS",tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png",UK: MUTV HD
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495237.ts
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="CHANNEL | SPORTS",MY | SPOTV 1
 https://ott.udptv.xyz/stream/astro/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
@@ -10222,7 +10226,8 @@ http://doubleclickstreams.xyz:80/Sammy38/Sammy38/376143
 #EXTINF:-1 tvg-id="" tvg-name="NowHK Golf 3 HD" tvg-logo="https://bananamuncher.com:443/images/jhqXUQ-zcaMAfRBjjBBPi-j-1KmbWRmUi3FKgTlj29DWXF5htESqBqySqz7i6nI5-n8ndwQ4M5wp9FacRjJJz4EtcXAWqYyEP59i6thVns9cHFb3hkOcPr3WwjvffllO5h0s3tYH4cO366GChHLgBiuoHsRHZDjOtixKYNrZspY.png" group-title="CHANNEL | SPORTS",NowHK Golf 3 HD
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/376142
 #EXTINF:-1 tvg-id="" tvg-name="NowHK MUTV HD" tvg-logo="https://bananamuncher.com:443/images/jhqXUQ-zcaMAfRBjjBBPi-j-1KmbWRmUi3FKgTlj29DWXF5htESqBqySqz7i6nI5-n8ndwQ4M5wp9FacRjJJz_uikx8RRH-I4EAbl23lyuOtSyx7tViH7Rzaa2jVSs8pJ2VrHWB5fbuM8W-pgK56GOM80pzjFw8hxdJNxaqiBLU.png" group-title="CHANNEL | SPORTS",NowHK MUTV HD
-http://doubleclickstreams.xyz:80/Sammy38/Sammy38/376141
+http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495237.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 618 FHD" tvg-logo="https://bananamuncher.com:443/images/2ywfVvX9NdxdkaNToIh-ZRR3vB5IcpMPGM5Jw9xcHvk-veCbgP1loqBUt3teMyzuUmaiMMH9Mw-d52u7WmGhow.png" group-title="CHANNEL | SPORTS",NowHK Sports 618 FHD
 http://doubleclickstreams.xyz:80/Sammy38/Sammy38/376140
 #EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 619 FHD" tvg-logo="https://bananamuncher.com:443/images/2ywfVvX9NdxdkaNToIh-ZRR3vB5IcpMPGM5Jw9xcHvk-veCbgP1loqBUt3teMyzuZ2hWGbcJPBob07yIcl3-2A.png" group-title="CHANNEL | SPORTS",NowHK Sports 619 FHD
@@ -14135,7 +14140,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTINF:-1 group-title="CHANNEL | VISION+" ch-number="79" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Hanacaraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-
 
 
 
