@@ -8620,23 +8620,19 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 =========================================== HBO GROUP ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | HBO GRUP
 
-
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="CHANNEL | HBO GRUP" Cinemax HD
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: Cinemax HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302227.ts
 
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="CHANNEL | HBO GRUP" HBO Family HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302249.ts
-
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="CHANNEL | HBO GRUP" HBO Signature HD
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: group-title="CHANNEL | HBO GRUP" HBO Signature HD
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302251.ts
-
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="CHANNEL | HBO GRUP" HBO HD1
+ 
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: group-title="CHANNEL | HBO GRUP" HBO HD1
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501248.ts
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="CHANNEL | HBO GRUP" HBO Family HD
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: group-title="CHANNEL | HBO GRUP" HBO Family HD1
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501249.ts
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="CHANNEL | HBO GRUP" HBO HITS HD
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: group-title="CHANNEL | HBO GRUP" HBO HITS HD1
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501250.ts
-#EXTINF:-1,ID: tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="CHANNEL | HBO GRUP" HBO Signature HD
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ID: group-title="CHANNEL | HBO GRUP" HBO Signature HD1
 http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501251.ts
 
 
