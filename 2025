@@ -6685,17 +6685,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNi3SmN5yyJEt1F7cFzGzqyAbo-Rkz1SWlgYvbl1DrDXT2WgjRhMUXgQ_6&s=10" group-title="CHANNEL | SPORT INDO",SPOTV (I)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="CHANNEL | SPORT INDO",SPOTV 2 (I)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
 #EXTINF:-1 tvg-id="Sportstars.id" group-title="CHANNEL | SPORT INDO" tvg-name="Sportstars" tvg-logo="https://cdn.urfan.id/logo/sportstars.png", | Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=112
@@ -6707,11 +6696,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/xXCBKAM.png",SPOTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO"  tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", Spotv 2 On
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=17140&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=17140&type=dash
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -6758,20 +6750,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="CHANNEL | SPORT INDO", Soccer Channel
 #https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash/soccerchannel-test.mpd|Referer=https://www.visionplus.id
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="CHANNEL | SPORT INDO", SPOTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2" tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="CHANNEL | SPORT INDO", SPOTV2
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
 
 
 
@@ -8393,13 +8371,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="LIVE | MotoGP", SPOTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
+#EXTINF:-1 group-title="LIVE | MotoGP"  tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", Spotv 2 test
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2" tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="LIVE | MotoGP", SPOTV2
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=17140&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=17140&type=dash
 
 
 ######## LIVE | UFC ######
@@ -8682,14 +8661,14 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="CHANNEL | SPORTS",SPOTV 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 https://terabit.web.id/media.mpd?id=119&type=dash
-
+#EXTINF:-1 group-title="CHANNEL | SPORTS"  tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg", Spotv 2 
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=120
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="CHANNEL | SPORTS",SPOTV 2 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://terabit.web.id/media.mpd?id=120&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=17140&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=17140&type=dash
 
 
 //========================================================================
@@ -8895,10 +8874,7 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495237.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="CHANNEL | SPORTS",MY | SPOTV 1
 https://ott.udptv.xyz/stream/astro/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="CHANNEL | SPORTS",MY | SPOTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="CHANNEL | SPORTS", Unifi Sports
@@ -15036,6 +15012,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTINF:-1 group-title="CHANNEL | VISION+" ch-number="79" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Hanacaraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+
 
 
 
