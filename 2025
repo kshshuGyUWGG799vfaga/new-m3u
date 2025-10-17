@@ -8146,16 +8146,28 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bri7&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://bintangstreaming.my.id/connect/index.m3u8?channel=live8&type=m3u8
 
-#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://i.imgur.com/S5k3QDO.png" tvg-id="Indosiar.id" ,Indosiar
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://i.imgur.com/S5k3QDO.png" tvg-id="Indosiar.id" ,Indosiar Digital
-https://rahmatsmpn3sbg.co-id.id/$k0detv9246/indosliga.m3u8
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live9&type=m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 10
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live10&type=m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="LIVE | LIGA TARKAM",INDOSIAR DIGITAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#https://mimipipi22.github.io/logo/offline.m3u8
+http://103.66.62.83:8000/play/a069/index.m3u8
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 
 ========== LIVE | PROLIGA ===========
