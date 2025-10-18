@@ -8172,16 +8172,14 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 ========== LIVE | PROLIGA ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/39ciYfS.png" group-title="LIVE | PROLIGA", MOJI 
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8 
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="LIVE | PROLIGA",MOJI Proliga 
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8 
-
-#EXTINF:-1 tvg-logo="https://iili.io/39ciYfS.png" group-title="LIVE | PROLIGA", MOJI TV aktif saat live 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12) 
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LIVE | PROLIGA",MOJI DIGITAL
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+#https://mimipipi22.github.io/logo/offline.m3u8
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
 
 
 
@@ -8413,7 +8411,16 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 1
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 2
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 3
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 4
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-4-1.m3u8?raw=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 5
+https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-5-1.m3u8?raw=true
 
 
 
