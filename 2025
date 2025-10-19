@@ -6889,129 +6889,118 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 =========================================== Malaysia ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | MALAYSIA
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="CHANNEL | MALAYSIA",TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="CHANNEL |  MALAYSIA"", Citra
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="CHANNEL |  MALAYSIA"",Aura
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aura/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="CHANNEL |  MALAYSIA"",Rania
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rania/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="CHANNEL |  MALAYSIA"",Oasis
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="CHANNEL |  MALAYSIA"",Ceria
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="CHANNEL |  MALAYSIA"",Ria
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="CHANNEL |  MALAYSIA"",TV3
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="CHANNEL |  MALAYSIA"",Prima
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="CHANNEL |  MALAYSIA"",Sensasi
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="CHANNEL |  MALAYSIA"",AEC
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/AEC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="CHANNEL |  MALAYSIA"",AOD
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aodhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="CHANNEL |  MALAYSIA"",Hua Hee
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="CHANNEL |  MALAYSIA"",Quanjia
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHANNEL |  MALAYSIA"",TVB Jade
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbjade/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="CHANNEL |  MALAYSIA"",TVB Asia
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbasia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="CHANNEL |  MALAYSIA"",TVB Entertainment
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="CHANNEL |  MALAYSIA"",TVBClassic
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Tvbclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="CHANNEL |  MALAYSIA"",Xing He
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="CHANNEL |  MALAYSIA"",Qiyi
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Qiyi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="CHANNEL |  MALAYSIA"",Showcase
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Showcase/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="CHANNEL |  MALAYSIA"",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="CHANNEL | MALAYSIA",TV 2
+#EXTINF:-1 tvg-id="TV2" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="CHANNEL |  MALAYSIA"",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" group-title="CHANNEL |  MALAYSIA"",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="CHANNEL |  MALAYSIA"",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="CHANNEL | MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163923.ts
-
-
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="CHANNEL | MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="CHANNEL | MALAYSIA",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
-
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="8TV.my" group-title="CHANNEL | MALAYSIA" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png",8TV Malaysia
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=10a3e11d12-5c9f0128-4aec-4b50-a25e-14bcb255ab22&category=all&mm_sp
-
-
-#EXTINF:-1 tvg-url="https://bit.ly/UnifyEpg" tvg-id="109" group-title="CHANNEL | MALAYSIA" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tv9-malaysia-logo.png",TV 9 Malaysia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-
-
-#EXTINF:-1, group-title="CHANNEL | MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png",Lawak Sentral
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-
-
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="CHANNEL | MALAYSIA",Sukan RTM
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="CHANNEL |  MALAYSIA"",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="CHANNEL | MALAYSIA",Berita RTM
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="CHANNEL |  MALAYSIA"",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="CHANNEL | MALAYSIA",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="CHANNEL |  MALAYSIA"",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-url="https://bit.ly/RtmEpg" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png" group-title="CHANNEL |  MALAYSIA"",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-and-taste-my.png",Travel&Taste 
+#EXTINF:-1 group-title="CHANNEL |  MALAYSIA"" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png",TTAVEL & TASTE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-
-
-
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
+#EXTINF:-1 group-title="CHANNEL |  MALAYSIA"" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",DRAMA HOTPOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-
-
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+#EXTINF:-1 group-title="CHANNEL |  MALAYSIA"" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",FILEM MANTAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+#EXTINF:-1 group-title="CHANNEL |  MALAYSIA"" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png",LAWAK SENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+#EXTINF:-1, group-title="CHANNEL |  MALAYSIA"" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",DRAMA HEBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+#EXTINF:-1 tvg-id="" group-title="CHANNEL |  MALAYSIA"" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",OH MY CERIA!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/D89jSI.png" group-title="CHANNEL | MALAYSIA", IKIM TV 
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-parlimen-dewan-rakyat-my.png" group-title="CHANNEL | MALAYSIA", PARLIMEN RAKYAT
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | MALAYSIA" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
-https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | MALAYSIA" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
-https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | MALAYSIA" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
-https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | MALAYSIA" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
-https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | MALAYSIA" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
-https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",APETITO
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",AURA
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",AURA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",FITRAH
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",FITRAH
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",JR.
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",LEAD
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",LEAD
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",ROLL
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",ROLL
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="CHANNEL | MALAYSIA",SNAP
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="CHANNEL |  MALAYSIA"",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
@@ -7987,87 +7976,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 ########################
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | RELIGI
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png" group-title="CHANNEL | RELIGI", 00. MakkahTV
-https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CHANNEL | RELIGI", 01. LIVE MADINAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png" group-title="CHANNEL | RELIGI", 01. MakkahTV
-##https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="CHANNEL | RELIGI",02. RodjaTV
-https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Meds-TV.png" group-title="CHANNEL | RELIGI", 03. MedsTV
-https://WahyuIPTV.short.gy/MedsTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="CHANNEL | RELIGI", 04. SurauTV
-https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="CHANNEL | RELIGI", 05. MQTV
-https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="CHANNEL | RELIGI", 06. WesalTV
-https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png" group-title="CHANNEL | RELIGI",07. AshillTV
-https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TV-Alhijrah.png" group-title="CHANNEL | RELIGI", 08. AlHijrahTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/dashiso/1113/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png" group-title="CHANNEL | RELIGI", 09. OasisTV
-##https://wahyu1ptv.pages.dev/AstroOasis.m3u8
-http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1164009.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mtatv_big1.png" group-title="CHANNEL | RELIGI", 10. MTATV
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="CHANNEL | RELIGI", 11. TAWAF TV
-https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tv9_big.png" group-title="CHANNEL | RELIGI", 12. TV9 NU
-https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
-
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="tv10.id" tvg-logo="https://i.ibb.co.com/KsJGvwX/tv10.png", 13. TV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tvmui_big.png" group-title="CHANNEL | RELIGI", 14. MUI TV
-https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
-
-#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="CHANNEL | RELIGI", 15. AlQuran Kareem
-https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
-
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/59oJ3Ef.png" group-title="CHANNEL | RELIGI", 16. ALWAFA TARIM
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-id="tvsunnah.id" tvg-logo="https://i.ibb.co.com/XzYBgX1/tvsunnah.png", 17. TV SUNNAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.yufid.com/hls/radiokitatv.m3u8
-
+#EXTINF:-1 group-title="CHANNEL |  RELIGI" tvg-logo="https://mimipipi22.github.io/logo/vidio/ajwa-tv.jpg",AJWA TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr1.manggatv09.workers.dev/ 
-#KODIPROP:inputstream.adaptive.license_key=https://tr1.manggatv09.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="CHANNEL | RELIGI",18. Khazanah
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+https://spacetv.my.id/index.mpd?id=7464&type=dash
+https://spacetv.my.id/index.m3u8?id=7464&type=hls
 
-#EXTINF:-1 group-title="CHANNEL | RELIGI" tvg-logo="https://i.imgur.com/lf4ByiR.png",19. TvMu (MUHAMMADIYAH TV) 
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/vidio/daystar-tv.jpg" group-title="CHANNEL |  RELIGI",Daystar TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://spacetv.my.id/index.mpd?id=18622&type=dash
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AswajaTV.id" tvg-name="AswajaTV" tvg-logo="https://warningfm.github.io/v3/img/oJE1tDf.png?v=1.0.0.1" group-title="CHANNEL | RELIGI",20. AswajaTV
-https://warningfm.github.io/dailymotion/AswajaTV.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#EXTINF:-1 tvg-id="130.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png" group-title="CHANNEL | RELIGI",21. JOM NGAJI
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
-# https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
-
-
-
-#EXTINF:-1 tvg-id="--" group-title="CHANNEL | RELIGI" tvg-logo="", MTATV
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="CHANNEL |  RELIGI" tvg-logo="https://www.insantv.com/wp-content/uploads/sites/2/2017/06/insantv.png",INSAN TV
+https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="HijrahTV" tvg-name="Hijrah TV" group-title="CHANNEL |  RELIGI" tvg-logo="https://youtv.live/data/channel/hijrahtv.jpg",HIJRAH TV
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 
 
 
@@ -8411,15 +8334,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB SPORT 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB SPORT 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB SPORT 3
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB SPORT 4
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-4-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB SPORT 5
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-5-1.m3u8?raw=true
 
 
@@ -8594,12 +8517,12 @@ https://vidd.semar.my.id/koneksi.php?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="CHANNEL |  SPORTS",CHAMPIONS TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="CHANNEL | SPORTS",CHAMPIONS TV 1
 https://vidd.semar.my.id/vidreq.php?id=17938&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="CHANNEL |  SPORTS",CHAMPIONS TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="CHANNEL | SPORTS",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -8611,11 +8534,11 @@ https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="CHANNEL |  SPORTS",CHAMPIONS TV 2 (BACKUP)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="CHANNEL | SPORTS",CHAMPIONS TV 2 (BACKUP)
 https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17939&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="CHANNEL |  SPORTS",CHAMPIONS TV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="CHANNEL | SPORTS",CHAMPIONS TV 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8629,7 +8552,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions5.jpg" group-title="CHANNEL |  SPORTS",CHAMPIONS TV 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions5.jpg" group-title="CHANNEL | SPORTS;LIVE | LIGA INGGRIS",CHAMPIONS TV 5
 https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
@@ -8639,7 +8562,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions6.jpg" group-title="CHANNEL |  SPORTS",CHAMPIONS TV 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions6.jpg" group-title="CHANNEL | SPORTS;LIVE | LIGA INGGRIS",CHAMPIONS TV 6
 https://vidd.semar.my.id/vidreq.php?id=9183&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
@@ -8860,48 +8783,6 @@ http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60470
 //MAYTOKO2 CHANNEL | SPORTS"Sporty Sports
 //========================================================================
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK | Now HK Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL1.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK | Now HK Premier Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-2.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL2.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK | Now HK Premier Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-3.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 3
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL3.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK | Now HK Premier Sports 4" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-4.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 4
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL4.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK | Now HK Premier Sports 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-5.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 5
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPL5.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK | Now HK Premier Sports 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-6.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 6
-http://zoneuk.club:80/1122334455/6677889900/35910
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague7.hk" tvg-name="HK | Now HK Premier Sports 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 7
-http://zoneuk.club:80/1122334455/6677889900/35909
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK | Now HK Premier Sports 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-TV.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier Sports 8
-http://zoneuk.club:80/1122334455/6677889900/35908
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PremierLeagueTV.peacocktv" tvg-name="HK | Now HK Premier League TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-PL.png" group-title="CHANNEL | SPORTS",HK | Now HK Premier League TV
-http://zoneuk.club:80/1122334455/6677889900/836295
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPrime.hk" tvg-name="HK | Now HK Sports Prime" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-Prime.png" group-title="CHANNEL | SPORTS",HK | Now HK Sports Prime
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPrime.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPlus.hk" tvg-name="HK | NowHK Sports Plus FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowSportsPlus.png" group-title="CHANNEL | SPORTS",HK | NowHK Sports Plus FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/NowsportPlus.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowGolf2.hk" tvg-name="HK | NowHK Golf 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowGolf2.png" group-title="CHANNEL | SPORTS",HK | NowHK Golf 2 FHD
-http://zoneuk.club:80/1122334455/6677889900/842093
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowGolf3.hk" tvg-name="HK | NowHK Golf 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowGolf3.png" group-title="CHANNEL | SPORTS",HK | NowHK Golf 3 FHD
-http://zoneuk.club:80/1122334455/6677889900/842092
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports1.hk" tvg-name="HK | Now Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="CHANNEL | SPORTS",HK | Now Sports 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport1.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports2.hk" tvg-name="HK | Now Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="CHANNEL | SPORTS",HK | Now Sports 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport2.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports3.hk" tvg-name="HK | Now Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="CHANNEL | SPORTS",HK | Now Sports 3
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport3.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4.hk" tvg-name="HK | Now Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-4.png" group-title="CHANNEL | SPORTS",HK | Now Sports 4
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport4.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports5.hk" tvg-name="HK | Now Sports 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-5.png" group-title="CHANNEL | SPORTS",HK | Now Sports 5
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport5.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports6.hk" tvg-name="HK | Now Sports 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-6.png" group-title="CHANNEL | SPORTS",HK | Now Sports 6
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport6.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports7.hk" tvg-name="HK | Now Sports 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-7.png" group-title="CHANNEL | SPORTS",HK | Now Sports 7
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport7.m3u8
 
 
 
@@ -8914,440 +8795,11 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Nowsport7.m3u8
 //MAYTOKO2 CHANNEL | SPORTS"Bein Sports
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS HEVC #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",##### BEIN SPORTS HEVC #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/309057
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986973
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 HEVC  " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 HEVC  
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986974
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986975
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986976
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986977
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986978
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986979
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986980
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986981
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986972
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR - BEIN SPORTS NBA HEVC" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS NBA.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NBA HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986984
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS FHD #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",##### BEIN SPORTS FHD #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/79702
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/73354
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="AR - BEIN SPORTS 1 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551241
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/977115
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/83132
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551242
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986959
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/83133
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551243
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN  SPORTS 3 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN  SPORTS 3 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986960
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/73360
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551244
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986961
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/73359
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551245
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986962
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/73358
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551246
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR -  BEIN SPORTS 6 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR -  BEIN SPORTS 6 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986963
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/73357
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551247
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986964
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/418596
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551248
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR -  BEIN SPORTS 8 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR -  BEIN SPORTS 8 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986965
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/418597
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551249
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 FHD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 FHD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986966
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986957
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986958
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR - BEIN SPORTS NBA FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS NBA.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NBA FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986969
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS HD #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",##### BEIN SPORTS HD #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/70207
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 HD¹ ◉ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 HD¹ ◉ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27898
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 HD² ◉" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 HD² ◉
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551272
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986994
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 HD¹ ◉ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 HD¹ ◉ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27897
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 HD² ◉" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 HD² ◉
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551273
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986995
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 HD¹ ◉ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 HD¹ ◉ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27896
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 HD² ◉" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 HD² ◉
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551274
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986996
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 4 HD¹ ◉ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 HD¹ ◉ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27895
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 HD² ◉" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 HD² ◉
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551275
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986997
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 HD¹ ◉ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 HD¹ ◉ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27894
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 HD² ◉" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 HD² ◉
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551276
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986998
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27893
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551277
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986999
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27892
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551278
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987000
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/418579
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551279
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987001
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/418583
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551280
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987002
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="AR - BEIN SPORTS NBA HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS NBA.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NBA HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/271227
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR - BEIN SPORTS NBA HD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS NBA.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NBA HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551289
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27925
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551270
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986992
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS HD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS HD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986993
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS GLOBAL HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27902
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551271
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986990
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",##### BEIN SPORTS #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27924
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551292
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="AR - BEIN SPORTS 1 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987011
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR - BEIN SPORTS 1 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 1 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/18111
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551293
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="AR - BEIN SPORTS 2 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987012
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR - BEIN SPORTS 2 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 2 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/18110
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551294
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987013
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR - BEIN SPORTS 3 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 3 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/18109
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551295
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987014
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR - BEIN SPORTS 4 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 4 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/18108
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551296
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987015
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR - BEIN SPORTS 5 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 5 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/18107
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551297
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987016
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR - BEIN SPORTS 6 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 6 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/18106
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551298
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987017
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR - BEIN SPORTS 7 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 7 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/73323
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551299
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987018
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR - BEIN SPORTS 8 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 8 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/550001
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551300
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987019
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR - BEIN SPORTS 9 SD⁴" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS 9 SD⁴
-http://bestp55.xyz:80/A7FC77529786/519C32219872/550002
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS SD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987010
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR - BEIN SPORTS NEWS SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NEWS SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551290
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL SD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987009
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR - BEIN SPORTS GLOBAL SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS GLOBAL SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551291
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR - BEIN SPORTS NBA SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS NBA.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS NBA SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987020
-#EXTINF:-1 tvg-id="" tvg-name="#### BEIN SPORTS MAX #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",#### BEIN SPORTS MAX #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986991
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914502
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914585
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914591
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914490
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 SD ²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 SD ²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914597
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 SD ³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 SD ³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914495
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914501
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914586
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914592
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914489
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 SD ²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 SD ²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914598
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 SD ³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 SD ³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914496
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914500
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914587
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914593
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3  SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3  SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914488
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 SD ²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 SD ²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914599
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 SD³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914497
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914499
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914588
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914594
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4  SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4  SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914487
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 SD ²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 SD ²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914600
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 SD ³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 SD ³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914498
-#EXTINF:-1 tvg-id="beinsportsmax5.qa" tvg-name="AR - BEIN SPORTS MAX 5 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 5 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914589
-#EXTINF:-1 tvg-id="beinsportsmax5.qa" tvg-name="AR - BEIN SPORTS MAX 5 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 5 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914595
-#EXTINF:-1 tvg-id="beinsportsmax5.qa" tvg-name="AR - BEIN SPORTS MAX 5  SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 5.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 5  SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914601
-#EXTINF:-1 tvg-id="beinsportsmax6.qa" tvg-name="AR - BEIN SPORTS MAX 6 FHD" tvg-logo="https://go4.pw/ARABE/beIN_SPORTSMAX_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 6 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914590
-#EXTINF:-1 tvg-id="beinsportsmax6.qa" tvg-name="AR - BEIN SPORTS MAX 6 HD" tvg-logo="https://go4.pw/ARABE/beIN_SPORTSMAX_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 6 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914596
-#EXTINF:-1 tvg-id="beinsportsmax6.qa" tvg-name="AR - BEIN SPORTS MAX 6  SD" tvg-logo="https://go4.pw/ARABE/beIN_SPORTSMAX_6.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 6  SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914602
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 AR" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 AR
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914507
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 AR " tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 AR 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914508
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 EN " tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 EN 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914509
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 FR " tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 FR 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914510
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 AR FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 AR FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914515
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 AR HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 AR HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914503
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR - BEIN SPORTS MAX 1 AR RAW" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 1 AR RAW
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914519
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 AR FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 AR FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914516
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 AR HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 AR HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914504
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR - BEIN SPORTS MAX 2 AR RAW" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 2 AR RAW
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914520
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 EN FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 EN FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914517
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 EN HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 EN HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914505
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR - BEIN SPORTS MAX 3 EN RAW" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 3 EN RAW
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914521
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 FR FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 FR FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914518
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 FR HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 FR HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914506
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR - BEIN SPORTS MAX 4 FR RAW" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS MAX 4.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS MAX 4 FR RAW
-http://bestp55.xyz:80/A7FC77529786/519C32219872/914522
-#EXTINF:-1 tvg-id="" tvg-name="#### BEIN SPORTS XTRA #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",#### BEIN SPORTS XTRA #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1142665
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - beIN SPORTS XTRA 1 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - beIN SPORTS XTRA 1 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986982
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 FHD¹" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 FHD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/334069
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551250
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 FHD³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 FHD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986967
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 HD¹ " tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 HD¹ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27891
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 HD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551281
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 HD³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987003
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 SD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551301
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR - BEIN SPORTS XTRA 1 SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 1.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 1 SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987021
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986983
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 FHD¹" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 FHD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/334070
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551251
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 FHD³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 FHD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986968
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 HD¹" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/334019
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 HD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987004
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 HD³" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551282
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1151341
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987022
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR - BEIN SPORTS XTRA 2 SD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 2 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551302
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR - BEIN SPORTS XTRA 3 FHD¹" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 3 FHD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/418573
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR - BEIN SPORTS XTRA 3 FHD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 3 FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551262
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR - BEIN SPORTS XTRA 3 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 3 HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/418511
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR - BEIN SPORTS XTRA 3 HD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 3 HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551283
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR - BEIN SPORTS XTRA 3 SD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 3 SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987023
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR - BEIN SPORTS XTRA 3 SD²" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="CHANNEL | SPORTS",AR - BEIN SPORTS XTRA 3 SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551303
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS FRENCH#####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",##### BEIN SPORTS FRENCH#####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1143461
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="FR - BEIN SPORTS 1  FRENCH HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 1  FRENCH HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986987
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="FR - BEIN SPORTS 1 FRENCH FHD " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 1 FRENCH FHD 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/211446
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="FR - BEIN SPORTS 1 FRENCH HD " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 1 FRENCH HD 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987007
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="FR - BEIN SPORTS 1 FRENCH HD² " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 1 FRENCH HD² 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551286
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="FR - BEIN SPORTS 1 FRENCH SD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 1 FRENCH SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987026
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="FR - BEIN SPORTS 2  FRENCH HEVC " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 2  FRENCH HEVC 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986988
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="FR - BEIN SPORTS 2 FRENCH FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 2 FRENCH FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/211444
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="FR - BEIN SPORTS 2 FRENCH HD " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 2 FRENCH HD 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987008
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="FR - BEIN SPORTS 2 FRENCH HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 2 FRENCH HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551287
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="FR - BEIN SPORTS 2 FRENCH SD " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 2 FRENCH SD 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/211632
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="FR - BEIN SPORTS 3 FRENCH HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3_FRENCH.png" group-title="CHANNEL | SPORTS",FR - BEIN SPORTS 3 FRENCH HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986989
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS ENGLISH #####" tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="CHANNEL | SPORTS",##### BEIN SPORTS ENGLISH #####
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1143462
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986985
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH FHD¹ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH FHD¹ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986970
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551268
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH HD¹" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH HD¹
-http://bestp55.xyz:80/A7FC77529786/519C32219872/27889
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551284
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987005
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN -  BEIN SPORTS 1 ENGLISH  SD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN -  BEIN SPORTS 1 ENGLISH  SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987024
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="EN - BEIN SPORTS 1 ENGLISH SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 1 ENGLISH SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551304
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH HEVC" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986986
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH FHD" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/211448
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH FHD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH FHD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551269
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH FHD³ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH FHD³ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/986971
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH HD¹ " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH HD¹ 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987006
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH HD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH HD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551285
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH HD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH HD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/63814
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="EN -  BEIN SPORTS 2 ENGLISH  SD " tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN -  BEIN SPORTS 2 ENGLISH  SD 
-http://bestp55.xyz:80/A7FC77529786/519C32219872/987025
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH SD²" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH SD²
-http://bestp55.xyz:80/A7FC77529786/519C32219872/551305
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="EN - BEIN SPORTS 2 ENGLISH SD³" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH.png" group-title="CHANNEL | SPORTS",EN - BEIN SPORTS 2 ENGLISH SD³
-http://bestp55.xyz:80/A7FC77529786/519C32219872/550000
+
+
+
+
+
 
 
 //========================================================================
@@ -9406,27 +8858,6 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 //========================================================================
 
 
-#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="CHANNEL | SPORTS",PL: POLSAT SPORT 1
-##http://vdns2.top:8080/12345678/87654321/34309
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Polsat1.m3u8
-
-#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="CHANNEL | SPORTS",PL: POLSAT SPORT 2
-##http://vdns2.top:8080/12345678/87654321/886
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Polsat2.m3u8
-
-##EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="CHANNEL | SPORTS",PL: POLSAT SPORT 3
-##http://vdns2.top:8080/12345678/87654321/887
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="CHANNEL | SPORTS", POLSAT SPORT PREMIUM 1
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="CHANNEL | SPORTS", POLSAT SPORT PREMIUM 2
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="CHANNEL | SPORTS", POLSAT SPORT PREMIUM 3
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="CHANNEL | SPORTS", POLSAT SPORT PREMIUM 4
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKokdaFpeE0QmyZZh5HFCApUwun3aXOgSzDw&s" group-title="CHANNEL | SPORTS", POLSAT SPORT PREMIUM 5
-https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/PolsatPremium5.m3u8
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="CHANNEL | SPORTS", DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
@@ -9720,257 +9151,257 @@ http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10518.m3u8
 
 ##########BACKUPSPORT#######
 
-#EXTINF:-1 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="SPORTS : AU FOX SPORTS 501" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 501
+#EXTINF:-1 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="SPORTS : AU FOX SPORTS 501" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 501
 http://mains.services/live/bshorty/Zv5le07a0J/dc3f0a93-4694-4cd8-9ac0-fa8ffaac817a.ts
-#EXTINF:-1 tvg-id="NSW-SydneyFOXLEAGUE.au" tvg-name="SPORTS : AU FOX SPORTS 502" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 502
+#EXTINF:-1 tvg-id="NSW-SydneyFOXLEAGUE.au" tvg-name="SPORTS : AU FOX SPORTS 502" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 502
 http://mains.services/live/bshorty/Zv5le07a0J/87aef18b-b06f-4d77-8900-af6cc0cbfe70.ts
-#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS503.au" tvg-name="SPORTS : AU FOX SPORTS 503" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 503
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS503.au" tvg-name="SPORTS : AU FOX SPORTS 503" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 503
 http://mains.services/live/bshorty/Zv5le07a0J/bc007996-8f63-45c6-85ef-7e637452cb2a.ts
-#EXTINF:-1 tvg-id="NSW-SydneyFoxFooty.au" tvg-name="SPORTS : AU FOX SPORTS 504" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 504
+#EXTINF:-1 tvg-id="NSW-SydneyFoxFooty.au" tvg-name="SPORTS : AU FOX SPORTS 504" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 504
 http://mains.services/live/bshorty/Zv5le07a0J/eec753b1-b704-49f8-8900-06218ae4c4be.ts
-#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS505.au" tvg-name="SPORTS : AU FOX SPORTS 505" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 505
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS505.au" tvg-name="SPORTS : AU FOX SPORTS 505" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 505
 http://mains.services/live/bshorty/Zv5le07a0J/c3d20372-c1d0-446b-9c1c-8182f20f6b16.ts
-#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS506.au" tvg-name="SPORTS : AU FOX SPORTS 506" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 506
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS506.au" tvg-name="SPORTS : AU FOX SPORTS 506" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 506
 http://mains.services/live/bshorty/Zv5le07a0J/47f28df9-64a7-4494-879a-a72c22354118.ts
-#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTSMORE.au" tvg-name="SPORTS : AU FOX SPORTS 507" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL |  SPORTS",SPORTS : AU FOX SPORTS 507
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTSMORE.au" tvg-name="SPORTS : AU FOX SPORTS 507" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="CHANNEL | SPORTS",SPORTS : AU FOX SPORTS 507
 http://mains.services/live/bshorty/Zv5le07a0J/c53af5c5-4bcd-4d05-8690-aa7b0009ea52.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 01" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 01
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 01" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 01
 http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 02" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 02
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 02" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 02
 http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 03" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 03
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 03" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 03
 http://mains.services/live/bshorty/Zv5le07a0J/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 04" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 04
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 04" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 04
 http://mains.services/live/bshorty/Zv5le07a0J/03e6b7c2-32ff-4d7d-90a1-798a35905074.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 05" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 05
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 05" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 05
 http://mains.services/live/bshorty/Zv5le07a0J/f625580c-d706-491f-907b-2baad2c4117e.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 06
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 06
 http://mains.services/live/bshorty/Zv5le07a0J/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 07" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 07
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 07" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 07
 http://mains.services/live/bshorty/Zv5le07a0J/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 08" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 08
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 08" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 08
 http://mains.services/live/bshorty/Zv5le07a0J/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 09" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT 09
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 09" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT 09
 http://mains.services/live/bshorty/Zv5le07a0J/45531087-726e-49cc-a815-9ccbdd8cb59d.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT SELECT" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL |  SPORTS",SPORTS : NZ SKY SPORT SELECT
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT SELECT" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="CHANNEL | SPORTS",SPORTS : NZ SKY SPORT SELECT
 http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="CHANNEL |  SPORTS",GB : TNT SPORTS 01
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="CHANNEL | SPORTS",GB : TNT SPORTS 01
 http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="CHANNEL |  SPORTS",GB : TNT SPORTS 02
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="CHANNEL | SPORTS",GB : TNT SPORTS 02
 http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="CHANNEL |  SPORTS",GB : TNT SPORTS 03
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="CHANNEL | SPORTS",GB : TNT SPORTS 03
 http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="CHANNEL |  SPORTS",GB : TNT SPORTS 04
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="CHANNEL | SPORTS",GB : TNT SPORTS 04
 http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="GB : TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="CHANNEL |  SPORTS",GB : TNT SPORTS 05
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="GB : TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="CHANNEL | SPORTS",GB : TNT SPORTS 05
 http://mains.services/live/bshorty/Zv5le07a0J/92614ec7-2113-4151-bc29-3a23ade80cc7.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL |  SPORTS",SPORTS : ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL | SPORTS",SPORTS : ASTRO SUPERSPORT 1
 http://mains.services/live/bshorty/Zv5le07a0J/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL |  SPORTS",SPORTS : ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL | SPORTS",SPORTS : ASTRO SUPERSPORT 2
 http://mains.services/live/bshorty/Zv5le07a0J/789d04b3-af43-4185-a849-a4cbcd123660.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL |  SPORTS",SPORTS : ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL | SPORTS",SPORTS : ASTRO SUPERSPORT 3
 http://mains.services/live/bshorty/Zv5le07a0J/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL |  SPORTS",SPORTS : ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL | SPORTS",SPORTS : ASTRO SUPERSPORT 4
 http://mains.services/live/bshorty/Zv5le07a0J/402826aa-5119-4254-b520-13c53cb5fa4a.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL |  SPORTS",SPORTS : ASTRO SUPERSPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="CHANNEL | SPORTS",SPORTS : ASTRO SUPERSPORT 5
 http://mains.services/live/bshorty/Zv5le07a0J/ffcdf3f0-7fe2-4dd7-9e20-e746c902ef74.ts
 
-#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="AFRICA : SUPERSPORT ACTION" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT ACTION
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="AFRICA : SUPERSPORT ACTION" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT ACTION
 http://mains.services/live/bshorty/Zv5le07a0J/e23f2ba2-d14a-4520-94c7-270193b0fa06.ts
-#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="AFRICA : SUPERSPORT BLITZ" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT BLITZ
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="AFRICA : SUPERSPORT BLITZ" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT BLITZ
 http://mains.services/live/bshorty/Zv5le07a0J/0eb60a6b-d4bd-485f-94c1-348a88e568e4.ts
-#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="AFRICA : SUPERSPORT CRICKET" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT CRICKET
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="AFRICA : SUPERSPORT CRICKET" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT CRICKET
 http://mains.services/live/bshorty/Zv5le07a0J/c9a46969-7c9f-4df4-b205-97c9742c7210.ts
-#EXTINF:-1 tvg-id="ESPN.HD.za" tvg-name="AFRICA : SUPERSPORT ESPN" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT ESPN
+#EXTINF:-1 tvg-id="ESPN.HD.za" tvg-name="AFRICA : SUPERSPORT ESPN" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT ESPN
 http://mains.services/live/bshorty/Zv5le07a0J/54ebf0ec-5f68-4dba-a1f3-9ac4cca4a581.ts
-#EXTINF:-1 tvg-id="ESPN.2.HD.za" tvg-name="AFRICA : SUPERSPORT ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT ESPN2
+#EXTINF:-1 tvg-id="ESPN.2.HD.za" tvg-name="AFRICA : SUPERSPORT ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT ESPN2
 http://mains.services/live/bshorty/Zv5le07a0J/f24c02ee-950d-4ef3-8775-28769ce54c94.ts
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="AFRICA : SUPERSPORT FOOTBALL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT FOOTBALL
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="AFRICA : SUPERSPORT FOOTBALL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT FOOTBALL
 http://mains.services/live/bshorty/Zv5le07a0J/3b4e154f-22af-4726-95b6-a873803729f6.ts
-#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="AFRICA : SUPERSPORT GOLF" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT GOLF
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="AFRICA : SUPERSPORT GOLF" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT GOLF
 http://mains.services/live/bshorty/Zv5le07a0J/fee6ed9a-b095-43c0-a39e-a4e1a52f2883.ts
-#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="AFRICA : SUPERSPORT GRANDSTAND" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT GRANDSTAND
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="AFRICA : SUPERSPORT GRANDSTAND" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT GRANDSTAND
 http://mains.services/live/bshorty/Zv5le07a0J/f61fff81-4634-47b2-b025-905a804464cd.ts
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="AFRICA : SUPERSPORT LA LIGA" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT LA LIGA
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="AFRICA : SUPERSPORT LA LIGA" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT LA LIGA
 http://mains.services/live/bshorty/Zv5le07a0J/f79f9fc5-88e0-4ba2-9b52-d23c5c40fe30.ts
-#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="AFRICA : SUPERSPORT MAXIMO" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT MAXIMO
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="AFRICA : SUPERSPORT MAXIMO" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT MAXIMO
 http://mains.services/live/bshorty/Zv5le07a0J/bd3a229f-12f6-476d-8546-f1d81140d996.ts
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="AFRICA : SUPERSPORT MOTORSPORT" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT MOTORSPORT
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="AFRICA : SUPERSPORT MOTORSPORT" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT MOTORSPORT
 http://mains.services/live/bshorty/Zv5le07a0J/0055be7d-d03d-4857-acfc-17c4c0b42d6b.ts
-#EXTINF:-1 tvg-id="SupersportPlay.za" tvg-name="AFRICA : SUPERSPORT PLAY" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT PLAY
+#EXTINF:-1 tvg-id="SupersportPlay.za" tvg-name="AFRICA : SUPERSPORT PLAY" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT PLAY
 http://mains.services/live/bshorty/Zv5le07a0J/f9a8d5a9-01d3-45d6-b3e3-181501075062.ts
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="AFRICA : SUPERSPORT PREMIER LEAGUE" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="AFRICA : SUPERSPORT PREMIER LEAGUE" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT PREMIER LEAGUE
 http://mains.services/live/bshorty/Zv5le07a0J/d3d180ce-c708-4ff5-9ffe-070031f1d2e7.ts
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="AFRICA : SUPERSPORT PSL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT PSL
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="AFRICA : SUPERSPORT PSL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT PSL
 http://mains.services/live/bshorty/Zv5le07a0J/606cb2eb-b5ec-419b-964d-da707b7d7079.ts
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="AFRICA : SUPERSPORT RUGBY" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT RUGBY
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="AFRICA : SUPERSPORT RUGBY" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT RUGBY
 http://mains.services/live/bshorty/Zv5le07a0J/5175e763-031f-441f-bcc1-ac80924188b7.ts
-#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="AFRICA : SUPERSPORT TENNIS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT TENNIS
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="AFRICA : SUPERSPORT TENNIS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT TENNIS
 http://mains.services/live/bshorty/Zv5le07a0J/3c0af048-a68e-49f8-8531-88afa485d326.ts
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="AFRICA : SUPERSPORT VARIETY 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT VARIETY 1
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="AFRICA : SUPERSPORT VARIETY 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT VARIETY 1
 http://mains.services/live/bshorty/Zv5le07a0J/97ec3f1e-eebf-43fb-a3c8-9d7d31c0fd4d.ts
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="AFRICA : SUPERSPORT VARIETY 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT VARIETY 2
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="AFRICA : SUPERSPORT VARIETY 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT VARIETY 2
 http://mains.services/live/bshorty/Zv5le07a0J/5308dc34-7a7f-4f88-94bf-ec1120c6cad1.ts
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="AFRICA : SUPERSPORT VARIETY 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT VARIETY 3
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="AFRICA : SUPERSPORT VARIETY 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT VARIETY 3
 http://mains.services/live/bshorty/Zv5le07a0J/bde137d6-10d8-4f0e-bf20-52868b443b9b.ts
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="AFRICA : SUPERSPORT VARIETY 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT VARIETY 4
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="AFRICA : SUPERSPORT VARIETY 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT VARIETY 4
 http://mains.services/live/bshorty/Zv5le07a0J/fc4dbea2-d1d4-4f03-81fe-1060db081d21.ts
-#EXTINF:-1 tvg-id="WWE.za" tvg-name="AFRICA : SUPERSPORT WWE" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL |  SPORTS",SUPERSPORT WWE
+#EXTINF:-1 tvg-id="WWE.za" tvg-name="AFRICA : SUPERSPORT WWE" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="CHANNEL | SPORTS",SUPERSPORT WWE
 http://mains.services/live/bshorty/Zv5le07a0J/31b8af79-dc27-48a8-925d-89a13d72411e.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA SPORTS 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA SPORTS 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA SPORTS 3
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA SPORTS 4
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-4.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA SPORTS 5
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-5.m3u8?raw=true
-#EXTINF:-1 tvg-name="SPORTS : ARENA SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="CHANNEL |  SPORTS",SPORTS : ARENA SPORT 6
+#EXTINF:-1 tvg-name="SPORTS : ARENA SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="CHANNEL | SPORTS",SPORTS : ARENA SPORT 6
 http://mains.services/live/bshorty/Zv5le07a0J/17ace0c2-ee4e-495c-9eb2-afafdaa40dcd.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA PREMIUM 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA PREMIUM 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA PREMIUM 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA PREMIUM 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-rs.png?raw=true" group-title="CHANNEL |  SPORTS",ARENA PREMIUM 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-rs.png?raw=true" group-title="CHANNEL | SPORTS",ARENA PREMIUM 3
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium3.m3u8?raw=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 3
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 4
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-4.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 5
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-5.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 6
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-6.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 7
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-7.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="CHANNEL |  SPORTS",COSMOTE SPORTS 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="CHANNEL | SPORTS",COSMOTE SPORTS 8
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-8.m3u8?raw=true
 
-#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL |  SPORTS",DAZN 1
+#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL | SPORTS",DAZN 1
 https://maldivesn.net/hilaytv/dazn1
-#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL |  SPORTS",DAZN 2
+#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL | SPORTS",DAZN 2
 https://maldivesn.net/hilaytv/dazn2
-#EXTINF:-1 tvg-id="dazn3.mv" tvg-name="DAZN 3" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL |  SPORTS",DAZN 3
+#EXTINF:-1 tvg-id="dazn3.mv" tvg-name="DAZN 3" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL | SPORTS",DAZN 3
 https://maldivesn.net/hilaytv/dazn3
-#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 4" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL |  SPORTS",DAZN 4
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 4" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL | SPORTS",DAZN 4
 https://maldivesn.net/hilaytv/dazn4
-#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 5" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL |  SPORTS",DAZN 5
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 5" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL | SPORTS",DAZN 5
 https://maldivesn.net/hilaytv/dazn5
-#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL |  SPORTS",DAZN 6
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="CHANNEL | SPORTS",DAZN 6
 https://maldivesn.net/hilaytv/dazn6
 
-#EXTINF:-1 tvg-id="sporttvplus" tvg-name="Sport TV+" tvg-logo="https://8upload.com/image/68abfb25e0af7/sporttvplushilay.png" group-title="CHANNEL |  SPORTS",Sport TV+
+#EXTINF:-1 tvg-id="sporttvplus" tvg-name="Sport TV+" tvg-logo="https://8upload.com/image/68abfb25e0af7/sporttvplushilay.png" group-title="CHANNEL | SPORTS",Sport TV+
 https://maldivesn.net/hilaytv/sporttvplus
-#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1" tvg-logo="https://8upload.com/image/68abfb25d3ed2/sporttv-1hilay.png" group-title="CHANNEL |  SPORTS",Sport TV 1
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1" tvg-logo="https://8upload.com/image/68abfb25d3ed2/sporttv-1hilay.png" group-title="CHANNEL | SPORTS",Sport TV 1
 https://maldivesn.net/hilaytv/sporttv1
-#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 2" tvg-logo="https://8upload.com/image/68abfb25c6a0a/sporttv2hilay.png" group-title="CHANNEL |  SPORTS",Sport TV 2
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 2" tvg-logo="https://8upload.com/image/68abfb25c6a0a/sporttv2hilay.png" group-title="CHANNEL | SPORTS",Sport TV 2
 https://maldivesn.net/hilaytv/sporttv2
-#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 3" tvg-logo="https://8upload.com/image/68abfb25b6f4f/sporttv3hilay.png" group-title="CHANNEL |  SPORTS",Sport TV 3
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 3" tvg-logo="https://8upload.com/image/68abfb25b6f4f/sporttv3hilay.png" group-title="CHANNEL | SPORTS",Sport TV 3
 https://maldivesn.net/hilaytv/sporttv3
-#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 4" tvg-logo="https://8upload.com/image/68abfb25aa966/sporttv4hilay.png" group-title="CHANNEL |  SPORTS",Sport TV 4
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 4" tvg-logo="https://8upload.com/image/68abfb25aa966/sporttv4hilay.png" group-title="CHANNEL | SPORTS",Sport TV 4
 https://maldivesn.net/hilaytv/sporttv4
-#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 5" tvg-logo="https://8upload.com/image/68abfb259e521/sporttv5hilay.png" group-title="CHANNEL |  SPORTS",Sport TV 5
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 5" tvg-logo="https://8upload.com/image/68abfb259e521/sporttv5hilay.png" group-title="CHANNEL | SPORTS",Sport TV 5
 https://maldivesn.net/hilaytv/sporttv5
-#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 6" tvg-logo="https://8upload.com/image/68abfb2590201/sporttv6hilay.png" group-title="CHANNEL |  SPORTS",Sport TV 6
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 6" tvg-logo="https://8upload.com/image/68abfb2590201/sporttv6hilay.png" group-title="CHANNEL | SPORTS",Sport TV 6
 https://maldivesn.net/hilaytv/sporttv6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB PREMIER 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB PREMIER 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB PREMIER 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB PREMIER 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB PREMIER 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB PREMIER 3
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB PREMIER 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB PREMIER 4
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier4.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-5-sg.png?raw=true" group-title="CHANNEL |  SPORTS",HUB PREMIER 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-5-sg.png?raw=true" group-title="CHANNEL | SPORTS",HUB PREMIER 5
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier5.m3u8?raw=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL |  SPORTS",V SPORT EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL | SPORTS",V SPORT EXTRA
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-extra.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL |  SPORTS",V SPORT PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL | SPORTS",V SPORT PREMIUM
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-premium.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL |  SPORTS",V SPORT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL | SPORTS",V SPORT
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL |  SPORTS",V SPORT FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL | SPORTS",V SPORT FOOTBALL
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-football.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL |  SPORTS",V SPORT MOTOR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="CHANNEL | SPORTS",V SPORT MOTOR
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-motor.m3u8?raw=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL |  SPORTS",TRUE SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL | SPORTS",TRUE SPORT 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL |  SPORTS",TRUE SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL | SPORTS",TRUE SPORT 2
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport2hd-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL |  SPORTS",TRUE SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL | SPORTS",TRUE SPORT 3
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport3hd.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL |  SPORTS",TRUE SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL | SPORTS",TRUE SPORT 5
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport5-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL |  SPORTS",TRUE SPORT 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="CHANNEL | SPORTS",TRUE SPORT 7
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport7-1.m3u8?raw=true
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="CHANNEL |  SPORTS", DubaiSports 1
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="CHANNEL | SPORTS", DubaiSports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="CHANNEL |  SPORTS", DubaiSports 2
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="CHANNEL | SPORTS", DubaiSports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="CHANNEL |  SPORTS", DubaiSports 3
+#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="CHANNEL | SPORTS", DubaiSports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="abudhabisp1.mv" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://8upload.com/image/680e48f7bf58c/abudhabisp1hilay.png" group-title="CHANNEL |  SPORTS",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-id="abudhabisp1.mv" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://8upload.com/image/680e48f7bf58c/abudhabisp1hilay.png" group-title="CHANNEL | SPORTS",Abu Dhabi Sports 1
 https://maldivesn.net/hilaytv/abudhabi1
-#EXTINF:-1 tvg-id="abudhabisp2.mv" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://8upload.com/image/680e48f7b2f51/abudhabisp2hilay.png" group-title="CHANNEL |  SPORTS",Abu Dhabi Sports 2
+#EXTINF:-1 tvg-id="abudhabisp2.mv" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://8upload.com/image/680e48f7b2f51/abudhabisp2hilay.png" group-title="CHANNEL | SPORTS",Abu Dhabi Sports 2
 https://maldivesn.net/hilaytv/abudhabi2
 
-#EXTINF:-1 group-title="CHANNEL |  SPORTS" tvg-id="SSC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-kcscZqBUfnMLukV0A0l7yEyotkOiUVUPg&s",SSC 1
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="SSC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-kcscZqBUfnMLukV0A0l7yEyotkOiUVUPg&s",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://mimipipi22.github.io/logo/offline.m3u8
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL |  SPORTS" tvg-id="SSC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZzIxmyMMHltJEmeAtGjFzpsh0Hf0v-PihA&s",SSC 2
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="SSC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZzIxmyMMHltJEmeAtGjFzpsh0Hf0v-PihA&s",SSC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://mimipipi22.github.io/logo/offline.m3u8
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL |  SPORTS" tvg-id="SSC 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeFtCWbOI6sABfwuPeNZHOa5136WYG5zZjg&s",SSC 3
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="SSC 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeFtCWbOI6sABfwuPeNZHOa5136WYG5zZjg&s",SSC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://mimipipi22.github.io/logo/offline.m3u8
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
-#EXTINF:-1 group-title="CHANNEL |  SPORTS" tvg-id="SSC EXTRA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHfhpv1NKHwQ46dx64sxjCPa4MzE6iClCbA&s",SSC EXTRA 1
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="SSC EXTRA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHfhpv1NKHwQ46dx64sxjCPa4MzE6iClCbA&s",SSC EXTRA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://mimipipi22.github.io/logo/offline.m3u8
 https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-id="jsports1" tvg-name="J Sports 1" tvg-logo="https://8upload.com/image/6843155363487/jsports1hilay.png" group-title="CHANNEL |  SPORTS",J Sports 1
+#EXTINF:-1 tvg-id="jsports1" tvg-name="J Sports 1" tvg-logo="https://8upload.com/image/6843155363487/jsports1hilay.png" group-title="CHANNEL | SPORTS",J Sports 1
 https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-id="jsports2" tvg-name="J Sports 2" tvg-logo="https://8upload.com/image/6843155355ad2/jsports2hilay.png" group-title="CHANNEL |  SPORTS",J Sports 2
+#EXTINF:-1 tvg-id="jsports2" tvg-name="J Sports 2" tvg-logo="https://8upload.com/image/6843155355ad2/jsports2hilay.png" group-title="CHANNEL | SPORTS",J Sports 2
 https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-id="jsports3" tvg-name="J Sports 3" tvg-logo="https://8upload.com/image/68431553494af/jsports3hilay.png" group-title="CHANNEL |  SPORTS",J Sports 3
+#EXTINF:-1 tvg-id="jsports3" tvg-name="J Sports 3" tvg-logo="https://8upload.com/image/68431553494af/jsports3hilay.png" group-title="CHANNEL | SPORTS",J Sports 3
 https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-id="jsports4" tvg-name="J Sports 4" tvg-logo="https://8upload.com/image/684315533a14c/jsports4hilay.png" group-title="CHANNEL |  SPORTS",J Sports 4
+#EXTINF:-1 tvg-id="jsports4" tvg-name="J Sports 4" tvg-logo="https://8upload.com/image/684315533a14c/jsports4hilay.png" group-title="CHANNEL | SPORTS",J Sports 4
 https://mt01.utako.moe/js4/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL |  SPORTS" tvg-id="" tvg-logo="",SONY LIV
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="",SONY LIV
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 
 
@@ -10792,46 +10223,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | CHINA
-#EXTINF:-1, group-title="CHANNEL | CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", JIANGSU TV
-
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
-
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/wVmyuIW.png", SHANGHAI DRAGON TV
-
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
-https://dl.dropboxusercontent.com/scl/fi/rrxb2v21qox1na9onp419/XING_KONG_TV.m3u8?rlkey=s9vs6qgbpfnvum4un2of904wm
-
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/IughubM.png", ANHUI TV
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/YDMCD2V.png", SHENZEN TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
-
-#EVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/x9WlTNz.png", ZHEJIANG TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHrLDix.png" group-title="CHANNEL | CHINA",NTD 新唐人大陸台
-http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CHANNEL | CHINA", PHOENIX CHINESE CHANNEL
-https://dl.dropboxusercontent.com/scl/fi/q4fqnkqjr2k5uro06aix1/phoenixchn.m3u8?rlkey=sek2n1fhk9r92np2u4gvhxyb7
-
-
-
-
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CHANNEL | CHINA",PHOENIX INFO NEWS
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 
 
 
@@ -12531,8 +11922,137 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/291015.ts
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | JAPAN
 
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="nhkg" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png", PROSES PERBAIKAN
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
+https://mt01.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
+https://mt01.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
+https://mt01.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
+https://mt01.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
+https://mt01.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
+https://mt01.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+https://mt01.utako.moe/kbs/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
+https://mt01.utako.moe/suntv/index.m3u8
+
+
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
+https://mt01.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
+https://mt01.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+https://mt01.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
+https://mt01.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
+https://mt01.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+https://mt01.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
+https://mt01.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
+https://mt01.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
+https://mt01.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
+https://mt01.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
+https://mt01.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
+https://mt01.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+https://ca01.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://ca01.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
+https://ca01.utako.moe/skya/index.m3u8
+
+
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
+https://mt01.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
+https://ca01.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+https://ca01.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
+https://ca01.utako.moe/mnet/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+https://ca01.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
+https://ca01.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
+https://ca01.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
+https://ca01.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
+https://ca01.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
+https://ca01.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
+https://ca01.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
+https://ca01.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
+https://ca01.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
+https://ca01.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
+https://ca01.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+https://ca01.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+https://ca01.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+https://ca01.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
+https://ca01.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
+https://ca01.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
+https://ca01.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
+https://ca01.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
+https://ca01.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
+https://ca01.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="CHANNEL |  JAPAN" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
+https://ca01.utako.moe/tabi/index.m3u8
 
 
 
@@ -13295,7 +12815,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTINF:-1 group-title="CHANNEL | VISION+" ch-number="79" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Hanacaraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
-
 
 
 
