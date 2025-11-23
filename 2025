@@ -7777,10 +7777,386 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017ifest.mp
 
 
 
-#EXTINF:0 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png"", PROSES UPDATE
-http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb6d0dbc
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/36
+
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
+http://iptv.kilas7.com:80/kaukia/asdfrewq/35
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://i.imgur.com/YDMCD2V.png", SHENZEN TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf09955f788c43349b677e15bbbc287f:74c70dbe1c0a3d367aab3356d54ccb64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",Hunan TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a73e886f584bbb959821fd97eaaa31:357e360c301c4f67862c46588545067d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24312e82bb4d44d3a94f98c0a1bb4443:7f4272e8205159a54a1ec5db818b8576
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",Dragon TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHANNEL | HK / TAIWAN", CCTV 4
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=CCTV-4
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="CHANNEL | HK / TAIWAN",Celestial Movies
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/   
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+#EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="CHANNEL | HK / TAIWAN",Celestial Classic
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://i.imgur.com/YDMCD2V.png", SHENZEN TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="CHANNEL | HK / TAIWAN" tvg-logo="https://i.imgur.com/x9WlTNz.png", ZHEJIANG TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="CHANNEL | HK / TAIWAN",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="CHANNEL | HK / TAIWAN",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="CHANNEL | HK / TAIWAN",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="CHANNEL | HK / TAIWAN",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="CHANNEL | HK / TAIWAN",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="CHANNEL | HK / TAIWAN",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="CHANNEL | HK / TAIWAN",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="CHANNEL | HK / TAIWAN",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",寰宇新聞
+http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",寰宇新聞台灣台
+http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",寰宇財經
+http://220.135.64.124:5050/4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",鏡電視新聞台
+http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",中天亞洲台
+http://220.135.64.124:5050/4gtv-4gtv109/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",中天新聞台
+http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TVBS HD
+http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TVBS台劇台
+http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TVBS新聞台
+http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TVBS歡樂台
+http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TVBS精采台
+http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TVBS綜藝台
+http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",三立iNEWS
+http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",三立iNEWS
+http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",三立綜合合
+http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",中視
+http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",中視新聞台
+http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",中視經典台
+http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",中視菁采台
+http://220.135.64.124:5050/4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",東森新聞
+http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",東森財經新聞
+http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",東森購物一台
+http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",東森購物二台
+http://220.135.64.124:5050/4gtv-4gtv103/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",非凡商業
+http://220.135.64.124:5050/4gtv-4gtv048/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",非凡新聞
+http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",台灣戲劇台
+http://220.135.64.124:5050/litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",台視HD
+http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",台視新聞台
+http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",台視財經台
+http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",華視
+http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",華視新聞台
+http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視HD
+http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視台灣台
+http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視影劇
+http://220.135.64.124:5050/litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視新聞
+http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視旅遊
+http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視第一台
+http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",民視綜藝
+http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",公視戲劇
+http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",八大精彩
+http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",八大綜藝
+http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",原住民族電視台
+http://220.135.64.124:5050/4gtv-live014/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",客家電視
+http://220.135.64.124:5050/4gtv-4gtv043/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",霹靂布袋戲
+http://220.135.64.124:5050/4gtv-live145/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",金光布袋戲
+http://220.135.64.124:5050/4gtv-live144/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",豬哥亮歌廳秀,
+http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",人間衛視
+http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",大愛二台
+http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",大愛電視
+http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",好消息
+http://220.135.64.124:5050/litv-ftv16/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",好消息2台
+http://220.135.64.124:5050/litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",倪珍播新聞
+http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",倪珍英語新聞
+http://220.135.64.124:5050/nnews-en/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",倪珍越語新聞
+http://220.135.64.124:5050/nnews-vn/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",亞洲旅遊
+http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯無限I
+http://220.135.64.124:5050/litv-longturn10/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯無限II
+http://220.135.64.124:5050/litv-longturn13/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯網球
+http://220.135.64.124:5050/litv-longturn09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯運動I
+http://220.135.64.124:5050/litv-longturn07/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯運動II
+http://220.135.64.124:5050/litv-longturn08/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯高球I
+http://220.135.64.124:5050/litv-longturn05/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯高球II
+http://220.135.64.124:5050/litv-longturn06/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",博斯魅力
+http://220.135.64.124:5050/litv-longturn04/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天卡通台
+http://220.135.64.124:5050/4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天國際
+http://220.135.64.124:5050/4gtv-4gtv063/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天戲劇
+http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天日本
+http://220.135.64.124:5050/4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天映畫
+http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天歡樂
+http://220.135.64.124:5050/4gtv-4gtv054/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天綜合
+http://220.135.64.124:5050/4gtv-4gtv046/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天育樂
+http://220.135.64.124:5050/4gtv-4gtv062/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天資訊
+http://220.135.64.124:5050/4gtv-4gtv065/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖天電影
+http://220.135.64.124:5050/4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖洋卡通
+http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",靖洋戲劇
+http://220.135.64.124:5050/4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",韓國娛樂台
+http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華偶像
+http://220.135.64.124:5050/litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華卡通
+http://220.135.64.124:5050/litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華戲劇
+http://220.135.64.124:5050/litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華日韓
+http://220.135.64.124:5050/litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華洋片
+http://220.135.64.124:5050/litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華經典
+http://220.135.64.124:5050/litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",龍華電影
+http://220.135.64.124:5050/litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",國會頻道1
+http://220.135.64.124:5050/4gtv-4gtv084/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",國會頻道2
+http://220.135.64.124:5050/4gtv-4gtv085/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",幸福空間居家台
+http://220.135.64.124:5050/4gtv-live206/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",影迷數位紀實台
+http://220.135.64.124:5050/litv-ftv15/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",影迷數位電影台
+http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",戲劇免費看1台
+http://220.135.64.124:5050/4gtv-live010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",新唐人亞太台
+http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",時尚運動X
+http://220.135.64.124:5050/4gtv-4gtv014/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",智林體育
+http://220.135.64.124:5050/4gtv-4gtv101/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",歐洲光影
+http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",歷史頻道
+http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",滾動力 Rollor
+http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",第1商業台
+http://220.135.64.124:5050/4gtv-4gtv104/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",精選動漫台
+http://220.135.64.124:5050/4gtv-live024/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",經典卡通台
+http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",經典電影台
+http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",視納華仁紀實頻道
+http://220.135.64.124:5050/4gtv-4gtv013/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",車迷 TV
+http://220.135.64.124:5050/4gtv-live201/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",達文西
+http://220.135.64.124:5050/4gtv-4gtv018/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",采昌影劇
+http://220.135.64.124:5050/4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",電影原聲台 CMusic
+http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",amc 電影台
+http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",ALJAZEERA 半島國際新聞台
+http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Arirang TV
+http://220.135.64.124:5050/4gtv-4gtv079/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",BLOOMBERG TV
+http://220.135.64.124:5050of-/4gtv-live059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",CI 罪案偵查頻道
+http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Cinema World
+http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",CLASSICA 古典樂
+http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",CNBC Asia 財經台
+http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",DreamWorks
+http://220.135.64.124:5050/4gtv-live017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",DW德國之聲
+http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",ELTA娛樂
+http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",ELTA生活旅遊
+http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",ELTV生活英語台
+http://220.135.64.124:5050/litv-longturn20/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",FRANCE24
+http://220.135.64.124:5050/4gtv-live146/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",FUN 4K探索娛樂
+http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",GINX Esports TV
+http://220.135.64.124:5050/4gtv-4gtv053/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Global Trekker
+http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",HITS
+http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",INULTRA
+http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Lifetime
+http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",LiveABC 互動英語台
+http://220.135.64.124:5050/4gtv-live030/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",LOVE NATURE
+http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",LUXE TV
+http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",MagellanTV頻道
+http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",MEZZO LIVE HD
+http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",MOMO親子
+http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",MTV Live
+http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",NHK WORLD
+http://220.135.64.124:5050/4gtv-live168/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Nick Jr.
+http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Nickelodeon,
+http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Pet Club TV
+http://220.135.64.124:5050/4gtv-live110/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",ROCK Action
+http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",ROCK Entertainment
+http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",SBN 全球財經台
+http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Smart知識台
+http://220.135.64.124:5050/litv-longturn19/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TRACE Sport Stars
+http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",Trace Urban
+http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | HK / TAIWAN",TV5MONDE Style
+http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 
 
 
@@ -7883,40 +8259,218 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 
 
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="CHANNEL | HBO GRUB",HBO.
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="CHANNEL | HBO GRUB",HBO HITS.
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mediampd/HBOHitsHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="CHANNEL | HBO GRUB",HBO FAMILY.
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mediampd/HBOFamilyHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="CHANNEL | HBO GRUB",HBO SIGNATURE.
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignatureHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="CHANNEL | HBO GRUB",CINEMAX.
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
+
+#EXTINF:-1 tvg-id="Hbo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="CHANNEL | HBO GRUB",HBO FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="CHANNEL | HBO GRUB",HBO HITS FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="CHANNEL | HBO GRUB",HBO FAMILY FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="CHANNEL | HBO GRUB",HBO SIGNATURE FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="CHANNEL | HBO GRUB", CINEMAX FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="CHANNEL | HBO GRUB",HBO
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="CHANNEL | HBO GRUB",HBO (CUBMU)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="CHANNEL | HBO GRUB",HBO HITS
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbohitsasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO HITS (CubMu) 
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="CHANNEL | HBO GRUB",HBO SIGNATURE
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO FAMILY (CubMu) 
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="CHANNEL | HBO GRUB",HBO FAMILY
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hbosignatureasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO SIGNATURE (CubMu) 
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="CHANNEL | HBO GRUB",CINEMAX
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX (CubMu) 
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="CHANNEL | HBO GRUB",Cinemax
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="CHANNEL | HBO GRUB",HBO
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="CHANNEL | HBO GRUB",HBO Hits
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="CHANNEL | HBO GRUB",HBO Family
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CHANNEL | HBO GRUB",HBO Signature
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="CHANNEL | HBO GRUB",HBO CIGNAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+#https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="CHANNEL | HBO GRUB",HBO Hits CIGNAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+#https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="CHANNEL | HBO GRUB",HBO Family  CIGNAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+#https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CHANNEL | HBO GRUB",HBO Signature CIGNAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+#https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="CHANNEL | HBO GRUB",Cinemax CIGNAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+#https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+
+#EXTINF:-1 tvg-id="Hbo romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/HBO_%282016-.n.v.%29.png/revision/latest?cb=20171126141416" group-title="CHANNEL | HBO GRUB" , HBO ROM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8
+
+#EXTINF:-1 tvg-id="Hbo 2 romania" tvg-logo="https://tvprofil.com/img/kanali-logo/HBO2_RO_logo.png?1737099480" group-title="CHANNEL | HBO GRUB" , HBO 2 ROM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8
+
+#EXTINF:-1 tvg-id="Hbo 3 romania" tvg-logo="https://tvprofil.com/img/kanali-logo/HBO3_logo_v2.png?1718192064" group-title="CHANNEL | HBO GRUB" , HBO 3 ROM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://thor1.syndula.cfd/diva/usergenm48Qhxrnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="CHANNEL | HBO GRUB",HBO PLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO Extream" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="CHANNEL | HBO GRUB",HBO XTREAME
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 
 
@@ -8144,12 +8698,6 @@ https://spacetv.my.id/index.mpd?id=19385&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIVE | LIGA TARKAM", BRI 5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="LIVE | LIGA TARKAM", BRI 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -8167,17 +8715,13 @@ http://mpwtv.github.io/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="LIVE | LIGA TARKAM", BRI 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="LIVE | LIGA TARKAM", INDOSIAR
+##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="LIVE | LIGA TARKAM",INDOSIAR DIGITAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#https://mimipipi22.github.io/logo/offline.m3u8
-http://103.66.62.83:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWqIwcT3UuSE7f-LqqGtJuL.png" group-title="LIVE | LIGA TARKAM",Indosiar 1
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-
 
 ========== LIVE | PROLIGA ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA
@@ -11831,10 +12375,11 @@ https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="ID: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="CHANNEL | KNOWLEDGE",ID: NAT GEO HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501265.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ID: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="CHANNEL | KNOWLEDGE",ID: NAT GEO WILD HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501266.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg" group-title="CHANNEL | KNOWLEDGE",National Geographic
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="CHANNEL | KNOWLEDGE",Nat Geog Wild
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/viasatexplore.png" group-title="CHANNEL | KNOWLEDGE",Viasat EXPLORE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
