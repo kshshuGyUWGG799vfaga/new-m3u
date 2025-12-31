@@ -9525,16 +9525,6 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ac/de/8c/acde8c8f1a0b002826c4f72a53531975.jpg" group-title="CHANNEL | SPORTS", SKY_RACE
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyrace.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB PREMIER 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier1.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB PREMIER 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier2.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB PREMIER 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier3.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB PREMIER 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier4.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB PREMIER 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier5.m3u8?raw=true
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB SPORT 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/04/8a/38/048a386d66d2b0cd2e03856a31085201.jpg" group-title="CHANNEL | SPORTS",HUB SPORT 2
@@ -9642,9 +9632,6 @@ http://190.60.37.118:4000/play/a02z
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 http://190.60.37.118:4000/play/a09j
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a8/9e/c5/a89ec5a7758e53c05c242d442b4daf09.jpg" group-title="CHANNEL | SPORTS",PREMIER 1
-
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.pinimg.com/236x/df/5d/1e/df5d1e2a1121620204c9608ea7e9b77f.jpg", SONY 1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt.m3u8
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.pinimg.com/236x/df/5d/1e/df5d1e2a1121620204c9608ea7e9b77f.jpg", SONY 2
@@ -9805,120 +9792,15 @@ https://op.sajmi.org/play/Oneplay%20Sport%203.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 https://op.sajmi.org/play/Oneplay%20Sport%204.m3u8
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="30" tvg-name="Nova Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/086258c1-9ab2-4c42-b45c-3d76b2b991c1" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Nova Sport 1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%201.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="31" tvg-name="Nova Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/60949c4a-274d-41bf-b967-3fe48f9405bd" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Nova Sport 2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%202.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="32" tvg-name="Nova Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/8f798a22-47b7-4dd2-a2f6-d54ac0d47e74" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Nova Sport 3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%203.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="33" tvg-name="Nova Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/377822b0-7811-4a92-8198-12a07c29e5be" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Nova Sport 4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%204.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="34" tvg-name="Nova Sport 5" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/78093cf2-1d35-49fd-8c1a-35e940cbe328" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Nova Sport 5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%205.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="35" tvg-name="Nova Sport 6" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/5ab2b01f-0fcf-42d6-aae0-4b691b225868" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Nova Sport 6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%206.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="36" tvg-name="Premier Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/3ec20b92-b311-4a6c-bc6d-ccbc54145600" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Premier Sport 1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Premier%20Sport%201.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="37" tvg-name="Premier Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/33bfa0fb-830c-4f38-9d64-e3f48e09f9ab" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Premier Sport 2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Premier%20Sport%202.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="38" tvg-name="Premier Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/05a462d8-b796-45cb-a4da-6c67fa643ac9" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Premier Sport 3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Premier%20Sport%203.m3u8
-
 #EXTINF:-1 provider="Oneplay" tvg-chno="39" tvg-name="ČT Sport" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/087dfbfe-d47f-4454-b862-a4cf603b9b36" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", ČT Sport
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 https://op.sajmi.org/play/%C4%8CT%20Sport.m3u8
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="40" tvg-name="Eurosport" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/da7cc1ef-9b02-451a-8114-989922588090" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Eurosport
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Eurosport.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="41" tvg-name="Eurosport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/8526343d-8ff6-4d16-a333-5484397c3111" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Eurosport 2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Eurosport%202.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="42" tvg-name="CANAL+ Sport" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/2ad30d55-d7cc-4348-991d-3c8417c1d617" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="43" tvg-name="CANAL+ Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/b89946c0-cace-41f7-9f46-bba9350d0cb5" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%202.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="44" tvg-name="CANAL+ Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/7e27b9aa-a9d6-4167-9e61-483e522dbcec" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%203.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="45" tvg-name="CANAL+ Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/0b6d7319-b3af-4929-b67a-de771789170f" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%204.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="46" tvg-name="CANAL+ Sport 5" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/eb7aca5c-0d4f-4e01-9601-cee503531970" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%205.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="47" tvg-name="CANAL+ Sport 6" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/72720330-28f9-47c7-bb1b-609f2c01b662" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%206.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="48" tvg-name="CANAL+ Sport 7" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/dd021cb4-7494-47ba-a0b9-6f26b987965a" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 7
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%207.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="49" tvg-name="CANAL+ Sport 8" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/d5ee0e92-f97c-4683-8d87-d12f9c9423ae" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", CANAL+ Sport 8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/CANAL%2B%20Sport%208.m3u8
-
 #EXTINF:-1 provider="Oneplay" tvg-chno="50" tvg-name="Golf Channel" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/9786031a-e309-4d67-8b57-e87eb64d6fb5" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Golf Channel
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 https://op.sajmi.org/play/Golf%20Channel.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="51" tvg-name="Arena Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/aab81810-1fa4-4732-825c-1ba965289d23" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Arena Sport 1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Arena%20Sport%201.m3u8
-
-#EXTINF:-1 provider="Oneplay" tvg-chno="52" tvg-name="Arena Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/27abdac0-4679-48d2-bb8d-d23d8ce2a094" catchup-days="7" catchup="shift" group-title="CHANNEL | SPORTS", Arena Sport 2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Arena%20Sport%202.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="CHANNEL | SPORTS", DubaiSports 1
@@ -9953,15 +9835,6 @@ https://a1xs.vip/700005
 https://a1xs.vip/700006
 #EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/kGm7Ts1.png" group-title="CHANNEL | SPORTS" radio="false",Fox Sports 507 FHD
 https://a1xs.vip/700007
-
-#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="CHANNEL | SPORTS" radio="false",Hub Premier 1 FHD
-https://a1xs.vip/1100041
-#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="CHANNEL | SPORTS" radio="false",Hub Premier 2 FHD
-https://a1xs.vip/1100042
-#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="CHANNEL | SPORTS" radio="false",Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="CHANNEL | SPORTS" radio="false",Hub Premier 4 FHD
-https://a1xs.vip/1100044
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="CHANNEL | SPORTS",ASTRO ARENA
@@ -10363,8 +10236,224 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18253&type=dash
 
 
 
+=======================================LIVE SEA GAMES 2025==========================================================================
+=====================================
+#EXTINF:-1 group-logo="https://i.blogs.es/2baaa1/dazn-f1/650_1200.webp",LIVE | DAZN SPORT
 
-=======================================LIGA ITALIA==========================================================================
+#EXTINF:-1 tvg-id="" tvg-name="Basket Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/12/Logo_Lega_Basket_2018.png/250px-Logo_Lega_Basket_2018.png" group-title="LIVE | DAZN SPORT",Basket Serie A
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266106
+#EXTINF:-1 tvg-id="" tvg-name="Acqua S.Bernardo Cantù" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/VMf9WvVUVq96EUCCGzRWyq6P" group-title="LIVE | DAZN SPORT",Acqua S.Bernardo Cantù
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266090
+#EXTINF:-1 tvg-id="" tvg-name="APU Old Wild West Udine" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/A9B7e6zUoFW8SX9MgmMVkfub" group-title="LIVE | DAZN SPORT",APU Old Wild West Udine
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266091
+#EXTINF:-1 tvg-id="" tvg-name="Banco di Sardegna Sassari" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/7bXSNP8ChP8nwEvr6ABptRpi" group-title="LIVE | DAZN SPORT",Banco di Sardegna Sassari
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266092
+#EXTINF:-1 tvg-id="" tvg-name="Bertram Derthona Tortona" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/bjyaP3D5VaYq2vXhUANJNweH" group-title="LIVE | DAZN SPORT",Bertram Derthona Tortona
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266093
+#EXTINF:-1 tvg-id="" tvg-name="Dolomiti Energia Trentino" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/gJsJQzzLu9NxbChwmUH17Lyt" group-title="LIVE | DAZN SPORT",Dolomiti Energia Trentino
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266094
+#EXTINF:-1 tvg-id="" tvg-name="EA7 Emporio Armani Milano" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/57rK52XePLNXZUfwemzo75Fs" group-title="LIVE | DAZN SPORT",EA7 Emporio Armani Milano
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266095
+#EXTINF:-1 tvg-id="" tvg-name="Germani Brescia" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/kqR78DTsdhxNCGTsnEtWzLdZ" group-title="LIVE | DAZN SPORT",Germani Brescia
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266096
+#EXTINF:-1 tvg-id="" tvg-name="Napoli Basketball" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/Ly7aFCoXwJ8w1PXuBXdGrFVu" group-title="LIVE | DAZN SPORT",Napoli Basketball
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266097
+#EXTINF:-1 tvg-id="" tvg-name="NutriBullet Treviso Basket" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/DWqcboTpYk2f7aUcfrtyhx99" group-title="LIVE | DAZN SPORT",NutriBullet Treviso Basket
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266098
+#EXTINF:-1 tvg-id="" tvg-name="Openjobmetis Varese" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/5FYQbQWMYsp9yCFMridRHjeo" group-title="LIVE | DAZN SPORT",Openjobmetis Varese
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266099
+#EXTINF:-1 tvg-id="" tvg-name="Pallacanestro Trieste" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/n7mBcEjt1p6CqM1fpaNLf8Sf" group-title="LIVE | DAZN SPORT",Pallacanestro Trieste
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266100
+#EXTINF:-1 tvg-id="" tvg-name="Trapani Shark" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/HNcKgSFoUKNKf35LhWkbumWw" group-title="LIVE | DAZN SPORT",Trapani Shark
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266101
+#EXTINF:-1 tvg-id="" tvg-name="Umana Reyer Venezia" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/dydjRkm2W7C2Mx2jqxXWN472" group-title="LIVE | DAZN SPORT",Umana Reyer Venezia
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266102
+#EXTINF:-1 tvg-id="" tvg-name="UNA Hotels Reggio Emilia" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/Mpy3yH2Gkym3wVX21n8WpsAs" group-title="LIVE | DAZN SPORT",UNA Hotels Reggio Emilia
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266103
+#EXTINF:-1 tvg-id="" tvg-name="Vanoli Basket Cremona" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/wvyktDdTzbucixEMnPUwjehk" group-title="LIVE | DAZN SPORT",Vanoli Basket Cremona
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266104
+#EXTINF:-1 tvg-id="" tvg-name="Virtus Olidata Bologna" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/HRX9Wp5BEw1nVnA2ArDX64R9" group-title="LIVE | DAZN SPORT",Virtus Olidata Bologna
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266105
+#EXTINF:-1 tvg-id="" tvg-name="Basket Serie A2 " tvg-logo="https://miglior.miweb.cc/copertinenuove/lpn2022/lpn.png" group-title="LIVE | DAZN SPORT",Basket Serie A2 
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266089
+#EXTINF:-1 tvg-id="" tvg-name="Gruppo Lombardi Avellino Basket" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501090.jpg?itok=67Wf9hQe" group-title="LIVE | DAZN SPORT",Gruppo Lombardi Avellino Basket
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249434
+#EXTINF:-1 tvg-id="" tvg-name="Gruppo Mascio Bergamo" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9509.png?itok=VO4Ir1UV" group-title="LIVE | DAZN SPORT",Gruppo Mascio Bergamo
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249435
+#EXTINF:-1 tvg-id="" tvg-name="Flats Service Fortitudo Bologna" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1.png?itok=Rz5ps3OH" group-title="LIVE | DAZN SPORT",Flats Service Fortitudo Bologna
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249436
+#EXTINF:-1 tvg-id="" tvg-name="Valtur Brindisi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9675.png?itok=DmIcDjH6" group-title="LIVE | DAZN SPORT",Valtur Brindisi
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249437
+#EXTINF:-1 tvg-id="" tvg-name="Sella Cento" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100118.png?itok=WlYVbBKv" group-title="LIVE | DAZN SPORT",Sella Cento
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249439
+#EXTINF:-1 tvg-id="" tvg-name="UEB Gesteco Cividale" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501072.png?itok=etdiYyA3" group-title="LIVE | DAZN SPORT",UEB Gesteco Cividale
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249440
+#EXTINF:-1 tvg-id="" tvg-name="Ferraroni Juvi Cremona" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9612.png?itok=nR2ZCT9c" group-title="LIVE | DAZN SPORT",Ferraroni Juvi Cremona
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249441
+#EXTINF:-1 tvg-id="" tvg-name="Unieuro Forlì" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/10050.png?itok=D2tkf7BD" group-title="LIVE | DAZN SPORT",Unieuro Forlì
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249442
+#EXTINF:-1 tvg-id="" tvg-name="Bi.Emme Service Libertas Livorno" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13088.png?itok=L_G2i5cI" group-title="LIVE | DAZN SPORT",Bi.Emme Service Libertas Livorno
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249443
+#EXTINF:-1 tvg-id="" tvg-name="Gemini Mestre" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32106.png?itok=SMt_qzGB" group-title="LIVE | DAZN SPORT",Gemini Mestre
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249444
+#EXTINF:-1 tvg-id="" tvg-name="Wegreenit Urania Milano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32014.png?itok=JV2fUj0K" group-title="LIVE | DAZN SPORT",Wegreenit Urania Milano
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249445
+#EXTINF:-1 tvg-id="" tvg-name="Victoria Libertas Pesaro" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/7.png?itok=JhT3iji9" group-title="LIVE | DAZN SPORT",Victoria Libertas Pesaro
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249446
+#EXTINF:-1 tvg-id="" tvg-name="Estra Pistoia" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9555.png?itok=_RLe8Usx" group-title="LIVE | DAZN SPORT",Estra Pistoia
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249447
+#EXTINF:-1 tvg-id="" tvg-name="RSR Sebastiani Rieti" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501075.png?itok=UppGFArl" group-title="LIVE | DAZN SPORT",RSR Sebastiani Rieti
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249448
+#EXTINF:-1 tvg-id="" tvg-name="Dole Basket Rimini" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100143.png?itok=GeeXKEsp" group-title="LIVE | DAZN SPORT",Dole Basket Rimini
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249449
+#EXTINF:-1 tvg-id="" tvg-name="Liofilchem Roseto" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100083.png?itok=m3nozhSo" group-title="LIVE | DAZN SPORT",Liofilchem Roseto
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249451
+#EXTINF:-1 tvg-id="" tvg-name="Crifo Wines Ruvo di Puglia" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9678.png?itok=zEwKFMzZ" group-title="LIVE | DAZN SPORT",Crifo Wines Ruvo di Puglia
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249452
+#EXTINF:-1 tvg-id="" tvg-name="Givova Scafati" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/35.png?itok=QO4pbO60" group-title="LIVE | DAZN SPORT",Givova Scafati
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249438
+#EXTINF:-1 tvg-id="" tvg-name="Reale Mutua Torino" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100145.png?itok=YU6uAX27" group-title="LIVE | DAZN SPORT",Reale Mutua Torino
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249450
+#EXTINF:-1 tvg-id="" tvg-name="Tezenis Verona" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13051.png?itok=Y6eb2rtz" group-title="LIVE | DAZN SPORT",Tezenis Verona
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266064
+#EXTINF:-1 tvg-id="" tvg-name="Basket Serie B Gir A" tvg-logo="https://miglior.miweb.cc/copertinenuove/lpn2022/lpn.png" group-title="LIVE | DAZN SPORT",Basket Serie B Gir A
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/248002
+#EXTINF:-1 tvg-id="" tvg-name="Moncada Energy Agrigento" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13043.png?itok=O3G5r3mJ" group-title="LIVE | DAZN SPORT",Moncada Energy Agrigento
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249422
+#EXTINF:-1 tvg-id="" tvg-name="Infodrive Capo d'Orlando" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100060.png?itok=cW7-w5c0" group-title="LIVE | DAZN SPORT",Infodrive Capo d'Orlando
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249423
+#EXTINF:-1 tvg-id="" tvg-name="Rimadesio Desio" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9710.png?itok=V-cywTiY" group-title="LIVE | DAZN SPORT",Rimadesio Desio
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249424
+#EXTINF:-1 tvg-id="" tvg-name="Foppiani Fulgor Fidenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9548.jpg?itok=6_EfjPDK" group-title="LIVE | DAZN SPORT",Foppiani Fulgor Fidenza
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249425
+#EXTINF:-1 tvg-id="" tvg-name="Fiorenzuola Bees" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32119.png?itok=UOhTs-Sl" group-title="LIVE | DAZN SPORT",Fiorenzuola Bees
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249426
+#EXTINF:-1 tvg-id="" tvg-name="SAE Scientifica-Soevis Legnano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9608.png?itok=x28JjJL4" group-title="LIVE | DAZN SPORT",SAE Scientifica-Soevis Legnano
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249427
+#EXTINF:-1 tvg-id="" tvg-name="LuxArm Lumezzane" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9535.png?itok=hKxC5SxU" group-title="LIVE | DAZN SPORT",LuxArm Lumezzane
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249428
+#EXTINF:-1 tvg-id="" tvg-name="Novipiù Monferrato Basket" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9587.png?itok=0R1XQweO" group-title="LIVE | DAZN SPORT",Novipiù Monferrato Basket
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249429
+#EXTINF:-1 tvg-id="" tvg-name="Fabo Herons Montecatini" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501116.png?itok=jzlXSmM1" group-title="LIVE | DAZN SPORT",Fabo Herons Montecatini
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249430
+#EXTINF:-1 tvg-id="" tvg-name="La T Tecnica Gema Montecatini" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/11033.png?itok=GAkhAR9c" group-title="LIVE | DAZN SPORT",La T Tecnica Gema Montecatini
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249431
+#EXTINF:-1 tvg-id="" tvg-name="Paffoni Fulgor Basket Omegna" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9703.png?itok=4Li7U6p-" group-title="LIVE | DAZN SPORT",Paffoni Fulgor Basket Omegna
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249432
+#EXTINF:-1 tvg-id="" tvg-name="Logiman Orzinuovi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32004.png?itok=KD_OkPet" group-title="LIVE | DAZN SPORT",Logiman Orzinuovi
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249433
+#EXTINF:-1 tvg-id="" tvg-name="Bakery Basket Piacenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/12518.jpg?itok=BGPy10ht" group-title="LIVE | DAZN SPORT",Bakery Basket Piacenza
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266065
+#EXTINF:-1 tvg-id="" tvg-name="UCC Assigeco Piacenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9531.png?itok=sA9oOEQF" group-title="LIVE | DAZN SPORT",UCC Assigeco Piacenza
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266066
+#EXTINF:-1 tvg-id="" tvg-name="Siaz Basket Piazza Armerina" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002828.jpg?itok=QvZnbj7I" group-title="LIVE | DAZN SPORT",Siaz Basket Piazza Armerina
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266067
+#EXTINF:-1 tvg-id="" tvg-name="Rucker San Vendemiano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100113.png?itok=kXJ25hBa" group-title="LIVE | DAZN SPORT",Rucker San Vendemiano
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266068
+#EXTINF:-1 tvg-id="" tvg-name="TAV Treviglio Brianza Basket" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32088.png?itok=AxM2vqRW" group-title="LIVE | DAZN SPORT",TAV Treviglio Brianza Basket
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266069
+#EXTINF:-1 tvg-id="" tvg-name="S4 Energia Vicenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32100.png?itok=LbxjVeXE" group-title="LIVE | DAZN SPORT",S4 Energia Vicenza
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266070
+#EXTINF:-1 tvg-id="" tvg-name="Elachem Vigevano 1955" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9502.jpg?itok=3OcP1Phj" group-title="LIVE | DAZN SPORT",Elachem Vigevano 1955
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266071
+#EXTINF:-1 tvg-id="" tvg-name="Basket Serie B Gir B" tvg-logo="https://miglior.miweb.cc/copertinenuove/lpn2022/lpn.png" group-title="LIVE | DAZN SPORT",Basket Serie B Gir B
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266126
+#EXTINF:-1 tvg-id="" tvg-name="Paperdi Juvecaserta 2021" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/36002.png?itok=O_DuJdlG" group-title="LIVE | DAZN SPORT",Paperdi Juvecaserta 2021
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266107
+#EXTINF:-1 tvg-id="" tvg-name="Malvin PSA Basket Casoria" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32180.png?itok=RiiHLvlD" group-title="LIVE | DAZN SPORT",Malvin PSA Basket Casoria
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266108
+#EXTINF:-1 tvg-id="" tvg-name="Umana San Giobbe Chiusi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501070.png?itok=xBl5yONk" group-title="LIVE | DAZN SPORT",Umana San Giobbe Chiusi
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266109
+#EXTINF:-1 tvg-id="" tvg-name="Ristopro Fabriano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/34004.png?itok=HBSgdl6-" group-title="LIVE | DAZN SPORT",Ristopro Fabriano
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266110
+#EXTINF:-1 tvg-id="" tvg-name="Tema Sinergie Faenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32122.jpg?itok=0UzUTxRR" group-title="LIVE | DAZN SPORT",Tema Sinergie Faenza
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266111
+#EXTINF:-1 tvg-id="" tvg-name="Adamant Ferrara" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002829.png?itok=0Q24idDy" group-title="LIVE | DAZN SPORT",Adamant Ferrara
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266112
+#EXTINF:-1 tvg-id="" tvg-name="UP Andrea Costa Imola" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/4.jpg?itok=32YWKMGv" group-title="LIVE | DAZN SPORT",UP Andrea Costa Imola
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266113
+#EXTINF:-1 tvg-id="" tvg-name="Virtus Imola" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/12515.jpg?itok=l-z33klT" group-title="LIVE | DAZN SPORT",Virtus Imola
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266114
+#EXTINF:-1 tvg-id="" tvg-name="General Contractor Jesi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/30.jpg?itok=SABkKbUC" group-title="LIVE | DAZN SPORT",General Contractor Jesi
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266115
+#EXTINF:-1 tvg-id="" tvg-name="Benacquista Assicurazioni Latina" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9560.png?itok=IAV09fFM" group-title="LIVE | DAZN SPORT",Benacquista Assicurazioni Latina
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266116
+#EXTINF:-1 tvg-id="" tvg-name="Verodol CBD Pielle Livorno" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9431.png?itok=LFqvkih2" group-title="LIVE | DAZN SPORT",Verodol CBD Pielle Livorno
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266117
+#EXTINF:-1 tvg-id="" tvg-name="Power Basket Nocera" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002475.png?itok=yB2_qNN8" group-title="LIVE | DAZN SPORT",Power Basket Nocera
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266118
+#EXTINF:-1 tvg-id="" tvg-name="Consultinvest Loreto Pesaro" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002830.jpg?itok=0XLE6wZZ" group-title="LIVE | DAZN SPORT",Consultinvest Loreto Pesaro
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266119
+#EXTINF:-1 tvg-id="" tvg-name="Solbat Golfo Piombino" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13086.jpg?itok=6mo5I7rZ" group-title="LIVE | DAZN SPORT",Solbat Golfo Piombino
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266120
+#EXTINF:-1 tvg-id="" tvg-name="Consorzio Leonardo Dany Quarrata" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002831.jpg?itok=M9kpSasO" group-title="LIVE | DAZN SPORT",Consorzio Leonardo Dany Quarrata
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266121
+#EXTINF:-1 tvg-id="" tvg-name="OraSì Ravenna" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9629.png?itok=ZLhK3VRw" group-title="LIVE | DAZN SPORT",OraSì Ravenna
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266122
+#EXTINF:-1 tvg-id="" tvg-name="Luiss Roma" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9583.png?itok=UXd35r_E" group-title="LIVE | DAZN SPORT",Luiss Roma
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266123
+#EXTINF:-1 tvg-id="" tvg-name="Virtus GVM Roma 1960" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/11.jpg?itok=ilGO8zi_" group-title="LIVE | DAZN SPORT",Virtus GVM Roma 1960
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266124
+#EXTINF:-1 tvg-id="" tvg-name="Allianz Pazienza San Severo" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9575.png?itok=8Eb3lkl5" group-title="LIVE | DAZN SPORT",Allianz Pazienza San Severo
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266125
+#EXTINF:-1 tvg-id="" tvg-name="Volley 1" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 1
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261006
+#EXTINF:-1 tvg-id="" tvg-name="Volley 2" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 2
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261007
+#EXTINF:-1 tvg-id="" tvg-name="Volley 3" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 3
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261008
+#EXTINF:-1 tvg-id="" tvg-name="Volley 4" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 4
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261009
+#EXTINF:-1 tvg-id="" tvg-name="Volley 5" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 5
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261010
+#EXTINF:-1 tvg-id="" tvg-name="Volley 7" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 7
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261011
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina NFL" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",Vetrina NFL
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251957
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 1
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251902
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 2
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251903
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 3" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 3
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251904
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 4" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 4
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251905
+#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 5" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 5
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251906
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Boxe" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Vetrina Boxe
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249102
+#EXTINF:-1 tvg-id="" tvg-name="Boxe 1" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 1
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249098
+#EXTINF:-1 tvg-id="" tvg-name="Boxe 2" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 2
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249166
+#EXTINF:-1 tvg-id="" tvg-name="Boxe 3" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 3
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249167
+#EXTINF:-1 tvg-id="" tvg-name="Boxe 4" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 4
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249168
+#EXTINF:-1 tvg-id="" tvg-name="Boxe 5" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 5
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249169
+#EXTINF:-1 tvg-id="" tvg-name="Boxe 6" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 6
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249170
+#EXTINF:-1 tvg-id="" tvg-name="MMA 1" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 1
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252947
+#EXTINF:-1 tvg-id="" tvg-name="MMA 2" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 2
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252948
+#EXTINF:-1 tvg-id="" tvg-name="MMA 3" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 3
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252949
+#EXTINF:-1 tvg-id="" tvg-name="MMA 4" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 4
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252950
+#EXTINF:-1 tvg-id="" tvg-name="MMA 5" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 5
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252951
+#EXTINF:-1 tvg-id="" tvg-name="MMA 6" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 6
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252952
+#EXTINF:-1 tvg-id="" tvg-name="MMA 7 " tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 7 
+http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252953
+
+
+
+
+
+=======================================LIVE SEA GAMES 2025==========================================================================
 =====================================
 #EXTINF:-1 group-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250",LIVE | SEA GAMES 2025
 
@@ -14434,431 +14523,820 @@ http://103.170.33.11:9981/stream/channelid/2028064150?profile=pass
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDONESIA VIP
 
-#EXTINF:-1 tvg-id="animalplanet.bg" tvg-name="ID: Animal Planet HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="CHANNEL | INDONESIA VIP",ID: Animal Planet HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302203.ts
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ID: Animax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="CHANNEL | INDONESIA VIP",ID: Animax HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302204.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Aniplus HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="CHANNEL | INDONESIA VIP",ID: Aniplus HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302205.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: ANTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="CHANNEL | INDONESIA VIP",ID: ANTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302206.ts
-#EXTINF:-1 tvg-id="foodnetwork.bg" tvg-name="ID: Asian FOOD Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="CHANNEL | INDONESIA VIP",ID: Asian FOOD Network HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302207.ts
-#EXTINF:-1 tvg-id="axn.pl" tvg-name="ID: AXN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="CHANNEL | INDONESIA VIP",ID: AXN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302208.ts
-#EXTINF:-1 tvg-id="babytv.it" tvg-name="ID: BABY TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="CHANNEL | INDONESIA VIP",ID: BABY TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302209.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="CHANNEL | INDONESIA VIP",ID: Balikpapan TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302210.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="CHANNEL | INDONESIA VIP",ID: Bandung TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302211.ts
-#EXTINF:-1 tvg-id="bbcearth.no" tvg-name="ID: BBC Earth HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="CHANNEL | INDONESIA VIP",ID: BBC Earth HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302212.ts
-#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="ID: BBC Lifestyle HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: BBC Lifestyle HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302213.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="ID: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 1 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302214.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="ID: BEIN Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 3 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302215.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita SATU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="CHANNEL | INDONESIA VIP",ID: Berita SATU HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302216.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita SATU World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="CHANNEL | INDONESIA VIP",ID: Berita SATU World HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302217.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="CHANNEL | INDONESIA VIP",ID: Bioskop Indonesia HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302218.ts
-#EXTINF:-1 tvg-id="boomerang.no" tvg-name="ID: Boomerang HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="CHANNEL | INDONESIA VIP",ID: Boomerang HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302219.ts
-#EXTINF:-1 tvg-id="boomerang.no" tvg-name="ID: Boomerang EN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="CHANNEL | INDONESIA VIP",ID: Boomerang EN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302220.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.no" tvg-name="ID: Cartoon Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="CHANNEL | INDONESIA VIP",ID: Cartoon Network HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302221.ts
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="ID: Cbeebies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="CHANNEL | INDONESIA VIP",ID: Cbeebies HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302222.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="CHANNEL | INDONESIA VIP",ID: Celestial Movies HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302223.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: CGTN Documentary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="CHANNEL | INDONESIA VIP",ID: CGTN Documentary HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302224.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Channel NEWS ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="CHANNEL | INDONESIA VIP",ID: Channel NEWS ASIA HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302225.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemaworld HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="CHANNEL | INDONESIA VIP",ID: Cinemaworld HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302226.ts
-#EXTINF:-1 tvg-id="cinemax.bg" tvg-name="ID: Cinemax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="CHANNEL | INDONESIA VIP",ID: Cinemax HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302227.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="CHANNEL | INDONESIA VIP",ID: Citra Dangdut HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302228.ts
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="ID: CNBC Indonesia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="CHANNEL | INDONESIA VIP",ID: CNBC Indonesia HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302229.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNN Indonesia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="CHANNEL | INDONESIA VIP",ID: CNN Indonesia HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302230.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="ID: Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="CHANNEL | INDONESIA VIP",ID: Crime+ Investigation HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302231.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: DA AI TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="CHANNEL | INDONESIA VIP",ID: DA AI TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302232.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="ID: Discovery World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="CHANNEL | INDONESIA VIP",ID: Discovery World HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302233.ts
-#EXTINF:-1 tvg-id="disneycinemagic.de" tvg-name="ID: Disney Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="CHANNEL | INDONESIA VIP",ID: Disney Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302234.ts
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="ID: Disney XD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="CHANNEL | INDONESIA VIP",ID: Disney XD HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302235.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dreamworks HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="CHANNEL | INDONESIA VIP",ID: Dreamworks HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302236.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia ANAK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="CHANNEL | INDONESIA VIP",ID: Dunia ANAK HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302237.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia LAIN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="CHANNEL | INDONESIA VIP",ID: Dunia LAIN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302238.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: ENT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="CHANNEL | INDONESIA VIP",ID: ENT HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302239.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302240.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 02 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 02 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302241.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 03 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 03 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302242.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 04 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 04 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302243.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: FLIK HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302244.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="CHANNEL | INDONESIA VIP",ID: Galaxy Premium HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302245.ts
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ID: GEM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="CHANNEL | INDONESIA VIP",ID: GEM HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302246.ts
-#EXTINF:-1 tvg-id="tvg2.us" tvg-name="ID: GTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="CHANNEL | INDONESIA VIP",ID: GTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302247.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302248.ts
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Family HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302249.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HITS HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302250.ts
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="ID: HBO Signature HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Signature HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302251.ts
-#EXTINF:-1 tvg-id="hgtv.de" tvg-name="ID: HGTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="CHANNEL | INDONESIA VIP",ID: HGTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302252.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: HIP HIP Horee! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="CHANNEL | INDONESIA VIP",ID: HIP HIP Horee! HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302253.ts
-#EXTINF:-1 tvg-id="history.de" tvg-name="ID: History HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="CHANNEL | INDONESIA VIP",ID: History HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302254.ts
-#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="ID: HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="CHANNEL | INDONESIA VIP",ID: HITS HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302255.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: HITS Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="CHANNEL | INDONESIA VIP",ID: HITS Movies HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302256.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Horee! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="CHANNEL | INDONESIA VIP",ID: Horee! HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302257.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: HUMA Betang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png" group-title="CHANNEL | INDONESIA VIP",ID: HUMA Betang TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302258.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hunan TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="CHANNEL | INDONESIA VIP",ID: Hunan TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302259.ts
-#EXTINF:-1 tvg-id="ons.nl" tvg-name="ID: I Konser HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: I Konser HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302260.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="ID: IDX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="CHANNEL | INDONESIA VIP",ID: IDX HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302261.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ID: IMC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="CHANNEL | INDONESIA VIP",ID: IMC HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302262.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: INDI KIDS HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: INDI KIDS HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302263.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CHANNEL | INDONESIA VIP",ID: Indosiar HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302264.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Insert HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="CHANNEL | INDONESIA VIP",ID: Insert HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302266.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Izzah TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="CHANNEL | INDONESIA VIP",ID: Izzah TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302267.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="ID: JAK TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="CHANNEL | INDONESIA VIP",ID: JAK TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302268.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: JTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="CHANNEL | INDONESIA VIP",ID: JTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302269.ts
-#EXTINF:-1 tvg-id="ekids.bg" tvg-name="ID: KIDS TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="CHANNEL | INDONESIA VIP",ID: KIDS TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302270.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="CHANNEL | INDONESIA VIP",ID: Kompas TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302271.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Lifestyle & Fashion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="CHANNEL | INDONESIA VIP",ID: Lifestyle & Fashion HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302272.ts
-#EXTINF:-1 tvg-id="metv.us" tvg-name="ID: Metro TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="CHANNEL | INDONESIA VIP",ID: Metro TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302273.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC NEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC NEWS HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302274.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC Sports HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302275.ts
-#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="ID: MNC Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC Sports 2 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302276.ts
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="ID: MNC Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC Sports 3 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302277.ts
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="ID: MNC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302278.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: MOJI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="CHANNEL | INDONESIA VIP",ID: MOJI HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302279.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ID: MQTV HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: MQTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302280.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: MTA 7 ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="CHANNEL | INDONESIA VIP",ID: MTA 7 ASIA HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302281.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ID: MTA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="CHANNEL | INDONESIA VIP",ID: MTA TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302282.ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="ID: Music TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="CHANNEL | INDONESIA VIP",ID: Music TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302283.ts
-#EXTINF:-1 tvg-id="btvcinema.bg" tvg-name="ID: MY Cinema HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="CHANNEL | INDONESIA VIP",ID: MY Cinema HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302284.ts
-#EXTINF:-1 tvg-id="Sky Crime.de" tvg-name="ID: MY Cinema ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="CHANNEL | INDONESIA VIP",ID: MY Cinema ASIA HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302285.ts
-#EXTINF:-1 tvg-id="film1family.nl" tvg-name="ID: MY Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="CHANNEL | INDONESIA VIP",ID: MY Family HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302286.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: MY KIDZ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="CHANNEL | INDONESIA VIP",ID: MY KIDZ HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302287.ts
-#EXTINF:-1 tvg-id="net5.nl" tvg-name="ID: NET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="CHANNEL | INDONESIA VIP",ID: NET HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302288.ts
-#EXTINF:-1 tvg-id="nickjr.no" tvg-name="ID: NICK JR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="CHANNEL | INDONESIA VIP",ID: NICK JR HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302289.ts
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="ID: Nickelodeon HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="CHANNEL | INDONESIA VIP",ID: Nickelodeon HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302290.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="CHANNEL | INDONESIA VIP",ID: Nusantara TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302291.ts
-#EXTINF:-1 tvg-id="one.de" tvg-name="ID: ONE HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ONE HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302292.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Padang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="CHANNEL | INDONESIA VIP",ID: Padang TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302293.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Prambors HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="CHANNEL | INDONESIA VIP",ID: Prambors HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302294.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="CHANNEL | INDONESIA VIP",ID: Radar Cirebon TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302295.ts
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="ID: Radio 51 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Radio 51 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302296.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="CHANNEL | INDONESIA VIP",ID: RCTI HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302297.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ROCK Action HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="CHANNEL | INDONESIA VIP",ID: ROCK Action HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302298.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ROCK Entertaiment HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="CHANNEL | INDONESIA VIP",ID: ROCK Entertaiment HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302299.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="CHANNEL | INDONESIA VIP",ID: Rodja TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302300.ts
-#EXTINF:-1 tvg-id="tvs.pl" tvg-name="ID: SCTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="CHANNEL | INDONESIA VIP",ID: SCTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: SEA Today HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="CHANNEL | INDONESIA VIP",ID: SEA Today HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302302.ts
-#EXTINF:-1 tvg-id="one.de" tvg-name="ID: Sindonews TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="CHANNEL | INDONESIA VIP",ID: Sindonews TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302303.ts
-#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="ID: Smithsonian Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="CHANNEL | INDONESIA VIP",ID: Smithsonian Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302304.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="ID: SpoTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="CHANNEL | INDONESIA VIP",ID: SpoTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302305.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="ID: SpoTV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="CHANNEL | INDONESIA VIP",ID: SpoTV 2 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302306.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TECH Storm HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="CHANNEL | INDONESIA VIP",ID: TECH Storm HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302307.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Tegar TV Lampung HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="CHANNEL | INDONESIA VIP",ID: Tegar TV Lampung HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302308.ts
-#EXTINF:-1 tvg-id="thrillermaxpacific.us" tvg-name="ID: Thrill HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="CHANNEL | INDONESIA VIP",ID: Thrill HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302309.ts
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="ID: TLC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="CHANNEL | INDONESIA VIP",ID: TLC HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302310.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="CHANNEL | INDONESIA VIP",ID: Trans 7 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302311.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="CHANNEL | INDONESIA VIP",ID: Trans TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302312.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="CHANNEL | INDONESIA VIP",ID: TV 9 Nusantara HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302313.ts
-#EXTINF:-1 tvg-id="one.de" tvg-name="ID: TV ONE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="CHANNEL | INDONESIA VIP",ID: TV ONE HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302314.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="ID: TVKU HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: TVKU HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302315.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: TVN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CHANNEL | INDONESIA VIP",ID: TVN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302316.ts
-#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="ID: TVN Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="CHANNEL | INDONESIA VIP",ID: TVN Movies HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302317.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="ID: TVRI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302318.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI JAWA Barat HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302319.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Barat HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302320.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Tengah HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Tengah HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302321.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Selatan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Selatan HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302322.ts
-#EXTINF:-1 tvg-id="utv.ro" tvg-name="ID: UG TV HD" tvg-logo="" group-title="CHANNEL | INDONESIA VIP",ID: UG TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302323.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="ID: USEE Sport 1 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: USEE Sport 1 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302324.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="ID: USEE Sport 2 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: USEE Sport 2 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302325.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="CHANNEL | INDONESIA VIP",ID: Vision Prime HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302326.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ZEE Bioskop HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="CHANNEL | INDONESIA VIP",ID: ZEE Bioskop HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302327.ts
-#EXTINF:-1 tvg-id="zoomtv.pl" tvg-name="ID: Zoomoo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="CHANNEL | INDONESIA VIP",ID: Zoomoo HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302328.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Inews HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="CHANNEL | INDONESIA VIP",ID: Inews HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302265.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Akativi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Akativi HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501223.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: AL WAFA Tarim HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/510d06f193e1c004cfdd844488e79ce9.png" group-title="CHANNEL | INDONESIA VIP",ID: AL WAFA Tarim HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501224.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Arirang HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="CHANNEL | INDONESIA VIP",ID: Arirang HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501225.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Ashiil TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d42340681fd197b2cdbc8697ddacd03b.png" group-title="CHANNEL | INDONESIA VIP",ID: Ashiil TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501226.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: AYU TVCC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2a475a5a3936edb688ec68fab938beb8.png" group-title="CHANNEL | INDONESIA VIP",ID: AYU TVCC HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501227.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: BALI TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="CHANNEL | INDONESIA VIP",ID: BALI TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501228.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="ID: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 1 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501229.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="ID: BEIN Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 3 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501230.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Beritasatu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Beritasatu HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501231.ts
-#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="ID: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="CHANNEL | INDONESIA VIP",ID: Bloomberg TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501232.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.no" tvg-name="ID: Cartoon Network ID HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Cartoon Network ID HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501233.ts
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="ID: CCM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="CHANNEL | INDONESIA VIP",ID: CCM HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501234.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: CGTN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="CHANNEL | INDONESIA VIP",ID: CGTN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501235.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Chinese Drama HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501236.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="CHANNEL | INDONESIA VIP",ID: Citra Drama HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501237.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dhoho TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Dhoho TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501238.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Discovery ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="CHANNEL | INDONESIA VIP",ID: Discovery ASIA HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501239.ts
-#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ID: Disney Junior HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="CHANNEL | INDONESIA VIP",ID: Disney Junior HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501240.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Eat&go HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="CHANNEL | INDONESIA VIP",ID: Eat&go HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501241.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 02 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 02 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501242.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 03 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 03 HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501243.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: EWTN ASIA Pacific HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/4c853008f5a94216b46c111232a08064.png" group-title="CHANNEL | INDONESIA VIP",ID: EWTN ASIA Pacific HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501244.ts
-#EXTINF:-1 tvg-id="ion.us" tvg-name="ID: Fashion TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="CHANNEL | INDONESIA VIP",ID: Fashion TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501245.ts
-#EXTINF:-1 tvg-id="fox.hr" tvg-name="ID: Ficom Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Ficom Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501246.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="CHANNEL | INDONESIA VIP",ID: Galaxy HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501247.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501248.ts
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Family HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501249.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO HITS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HITS HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501250.ts
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="ID: HBO Signature HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Signature HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501251.ts
-#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="ID: HOPE Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HOPE Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501252.ts
-#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="ID: I AM Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="CHANNEL | INDONESIA VIP",ID: I AM Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501253.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jambi TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/90e2c8f15ca01f83dbc470a4ac534f9e.png" group-title="CHANNEL | INDONESIA VIP",ID: Jambi TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501255.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: JAWA POS TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: JAWA POS TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501256.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jogja Istimewa TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/5a76ac7edb1f8be80763f61c5b1bd16f.png" group-title="CHANNEL | INDONESIA VIP",ID: Jogja Istimewa TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501257.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="ID: K+ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="CHANNEL | INDONESIA VIP",ID: K+ HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501258.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kutim TVCC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Kutim TVCC HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501259.ts
-#EXTINF:-1 tvg-id="lifetime.uk" tvg-name="ID: Lifetime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="CHANNEL | INDONESIA VIP",ID: Lifetime HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501260.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Macau Lotus TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a2de6ff0f4df330c3c936427246c0327.png" group-title="CHANNEL | INDONESIA VIP",ID: Macau Lotus TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501261.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: MADU TV HD" tvg-logo="" group-title="CHANNEL | INDONESIA VIP",ID: MADU TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501262.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Music Information Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/bcbb8b29070d14154ab08c3a22fcee94.png" group-title="CHANNEL | INDONESIA VIP",ID: Music Information Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501263.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nabawi TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png" group-title="CHANNEL | INDONESIA VIP",ID: Nabawi TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501264.ts
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="ID: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="CHANNEL | INDONESIA VIP",ID: NAT GEO HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501265.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ID: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="CHANNEL | INDONESIA VIP",ID: NAT GEO WILD HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501266.ts
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="ID: NBA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="CHANNEL | INDONESIA VIP",ID: NBA TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501267.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: NHK World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="CHANNEL | INDONESIA VIP",ID: NHK World HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501268.ts
-#EXTINF:-1 tvg-id="nickjr.no" tvg-name="ID: NICK JR EN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="CHANNEL | INDONESIA VIP",ID: NICK JR EN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501269.ts
-#EXTINF:-1 tvg-id="one.de" tvg-name="ID: ONE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="CHANNEL | INDONESIA VIP",ID: ONE HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501270.ts
-#EXTINF:-1 tvg-id="tvp.pl" tvg-name="ID: PSJ TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/2c84b56143bf6c8f73113e5838a763cb.png" group-title="CHANNEL | INDONESIA VIP",ID: PSJ TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501271.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="CHANNEL | INDONESIA VIP",ID: Rajawali TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501272.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: RIAU TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/399d59d5f98278128d56be416d2c35b5.png" group-title="CHANNEL | INDONESIA VIP",ID: RIAU TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501273.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: RRI NET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="CHANNEL | INDONESIA VIP",ID: RRI NET HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501274.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Sakti TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/d1d31ef77c60f810da63fe78cc41c0df.png" group-title="CHANNEL | INDONESIA VIP",ID: Sakti TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501275.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Surau TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6a3454cfe97674f547af1d5ae6ab2306.png" group-title="CHANNEL | INDONESIA VIP",ID: Surau TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501276.ts
-#EXTINF:-1 tvg-id="atv.at" tvg-name="ID: TATV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: TATV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501277.ts
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="ID: TV MU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="CHANNEL | INDONESIA VIP",ID: TV MU HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501278.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV Tabalong HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/47568faeda204bcbbecfe3bac3d286eb.png" group-title="CHANNEL | INDONESIA VIP",ID: TV Tabalong HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501279.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: TVN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CHANNEL | INDONESIA VIP",ID: TVN HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501280.ts
-#EXTINF:-1 tvg-id="one.de" tvg-name="ID: TVone HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="CHANNEL | INDONESIA VIP",ID: TVone HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501281.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI ACEH HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3fd74de7c7e644f6045b5166879d3a03.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI ACEH HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501282.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI BALI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/18313e7bc85d4b6ebbfbfb9cd8c446ab.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI BALI HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501283.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Bangka Belitung HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3683b046dc9af507f1c52d4bede153be.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Bangka Belitung HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501284.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Bengkulu HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2b2d21b3a86a3ee175d188c8ad99b1c2.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Bengkulu HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501285.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI DKI Jakarta HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d67405ebc2d764f37faa0b4f580ae1a1.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI DKI Jakarta HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501286.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Gorontalo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b68e2b392340fa6d54907e749989b853.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Gorontalo HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501287.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Jambi HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c4a6c0c155b07aae5b09255a6095bef1.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Jambi HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501288.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA Tengah HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/99b082430aa9b165f5a338e2d9a7ecd0.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI JAWA Tengah HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501289.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA Timur HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9207cfb954c8ff99aa7706b771181723.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI JAWA Timur HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501290.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Selatan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c8580968b402ba06a05644b23215e743.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Selatan HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501291.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Timur HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/bb3dcf171b50be12f0cf9ba6f92d4856.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Timur HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501292.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Lampung HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/fb2cfa53fbd6fb6d20e68a7245ac4bd6.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Lampung HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501293.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Maluku HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/302e8338424ecc013e3d59dc0d7dc23d.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Maluku HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501294.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI NUSA Tenggara Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3337ecf88119fba1ba8826914b100f37.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI NUSA Tenggara Barat HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501295.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI NUSA Tenggara Timur HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/be095cb83306a78445f0b65a300383ee.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI NUSA Tenggara Timur HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501296.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Papua HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Papua HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501297.ts
-#EXTINF:-1 tvg-id="raistoria.it" tvg-name="ID: TVRI RIAU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/a7e3b437400438f0854d7974a04e22ac.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI RIAU HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501298.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="ID: TVRI Sport HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sport HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501299.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/6bab30811966b6bfd10963e409029ad5.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Barat HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501300.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Tengah HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Tengah HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501301.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Tenggara HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f5bce3167db39c311e9c3e88d058aee.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Tenggara HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501302.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sumatera Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5e0d438bb2ca3f48357d792c0fdc81b5.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sumatera Barat HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501303.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sumatera Selatan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7a486990b2123af0bcded609cb431c3a.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sumatera Selatan HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501304.ts
-#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="ID: TVRI World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI World HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501305.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Yogyakarta HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2f184802e2b3c8672db32185e50ff616.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Yogyakarta HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501306.ts
-#EXTINF:-1 tvg-id="fox.hr" tvg-name="ID: U Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="CHANNEL | INDONESIA VIP",ID: U Channel HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501307.ts
-#EXTINF:-1 tvg-id="tnt.pl" tvg-name="ID: Warner TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="CHANNEL | INDONESIA VIP",ID: Warner TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501308.ts
-#EXTINF:-1 tvg-id="wetv.us" tvg-name="ID: Wesal TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f76fea39b72d897674ce2294457a011e.png" group-title="CHANNEL | INDONESIA VIP",ID: Wesal TV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501309.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Inews HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="CHANNEL | INDONESIA VIP",ID: Inews HD
-http://filex.me:8080//live/Qasim1990/1990qasim/501254.ts
 
 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA VIP" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10" group-title="CHANNEL | INDONESIA VIP",INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s" group-title="CHANNEL | INDONESIA VIP",SCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul436uCmHMIpge6PzLn_kyCWYGBs9p2u5CGCrSRBkuPCvIh4QRyxdUECP&s=10", GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="CHANNEL | INDONESIA VIP",Trans TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Trans 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="CHANNEL | INDONESIA VIP",ANTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg" group-title="CHANNEL | INDONESIA VIP",RTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/230/2024/11/14/New-Project-73-2968492983.jpg" group-title="CHANNEL | INDONESIA VIP",NET TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA VIP" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",JOWO Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLzbyQsq1bqfjSw3bEEjyAg1oucmySHgsqQ&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",TVRI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnnajfM_VCvMMnOV6U84oQ6Szhq6vQiSK8Z1eqiuLrgRS9thZkqSwgSI&s=10" group-title="CHANNEL | INDONESIA VIP",Metro TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg" group-title="CHANNEL | INDONESIA VIP",TV One
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCh67zEpVMHxLj6kU6QB_JiKfvomp28jV2Q&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",BTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="CHANNEL | INDONESIA VIP",Kompas TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s" group-title="CHANNEL | INDONESIA VIP",CNN Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Q-Rua93TgwQYu3phFVSTw5MuiFtC0jGQVQ&s" group-title="CHANNEL | INDONESIA VIP",CNBC Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EU8sQ2PqncSILCx6p6e9oxtaP_Q6wRCm6Q&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",The Indonesia Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4TqguMdM8LTfEwJA5gftQeyN0W_wR5pb4Q&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Insert
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGso4UCz3qWyzfVH8lRAeMpMVjlY6V-poZ3w&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",JAK TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7kokErvRkQq1jr16zOqRKQoxVDRWa8PEGQ&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",JTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" group-title="CHANNEL | INDONESIA VIP",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="CHANNEL | INDONESIA VIP",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="CHANNEL | INDONESIA VIP",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="CHANNEL | INDONESIA VIP",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="CHANNEL | INDONESIA VIP",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg" group-title="CHANNEL | INDONESIA VIP",Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/seru.png" group-title="CHANNEL | INDONESIA VIP",Seru Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="CHANNEL | INDONESIA VIP",Dunia Lain
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg" group-title="CHANNEL | INDONESIA VIP",Nusantara
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Musik Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="CHANNEL | INDONESIA VIP",Song TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="CHANNEL | INDONESIA VIP",Clubbing TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/TV%20MU.jpg" group-title="CHANNEL | INDONESIA VIP",TV Mu
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/TV%209.jpg" group-title="CHANNEL | INDONESIA VIP",TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRM18i3RBTdS2HpCo5RelhsRwIu83d-ZLSw&usqp=CAU" group-title="CHANNEL | INDONESIA VIP", NABAWI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg" group-title="CHANNEL | INDONESIA VIP",Kilat TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png" group-title="CHANNEL | INDONESIA VIP",Eat N Go
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="CHANNEL | INDONESIA VIP",Lingua Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYi75sypv-mDYiAjkHRGtw6mz4fBGGiS67g&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Nature Vision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/PIJAR%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",Pijar TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="CHANNEL | INDONESIA VIP",Khazanah
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",DAAI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/dunia_anak.png" group-title="CHANNEL | INDONESIA VIP",Dunia Anak
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Cartoon TV Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Cartoon TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr5QWyKltrB3ybFc6fdSzkybIK0B9JkGdOA&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Cartoon TV Classics
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="CHANNEL | INDONESIA VIP",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/boomerang.png" group-title="CHANNEL | INDONESIA VIP",Boomerang
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="CHANNEL | INDONESIA VIP",Bioskop Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="CHANNEL | INDONESIA VIP",Series Zone
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq505Bd0BH-e3Chr84A5Ecj97fI8q0WNbyFA&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Movies News
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA VIP" tvg-logo="https://i.postimg.cc/3RFZB9NP/afn.png",AFN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/DIZI%20PURPLE.jpg" group-title="CHANNEL | INDONESIA VIP",Dizi
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846169a38c3e61/1901a230a6204d44b4d51f176df0d20c.jpg" group-title="CHANNEL | INDONESIA VIP",Wai Lana
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="CHANNEL | INDONESIA VIP",SuperYacht TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858119921801816b52686d5e62/fa18ac9f9a8b4e5e92d20a20ba71db39.jpg" group-title="CHANNEL | INDONESIA VIP",Pretty TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686d5e62/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",Gem TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="CHANNEL | INDONESIA VIP",Joke TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",One TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GOSSIP.png" group-title="CHANNEL | INDONESIA VIP",Gossip
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="CHANNEL | INDONESIA VIP",Fashion TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="CHANNEL | INDONESIA VIP",Travel TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="CHANNEL | INDONESIA VIP",Cooking TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="CHANNEL | INDONESIA VIP",Gaming TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Fitness%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",Fitness TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-wZnNFd0zVZ363F7dZTh3nGjQe_Khy8YUQ&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Knowledge+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg" group-title="CHANNEL | INDONESIA VIP",HowTo
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL7XkT5T/TV5-Monde-Info.png" group-title="CHANNEL | INDONESIA VIP",TV5 Monde
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" group-title="CHANNEL | INDONESIA VIP",CCTV 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8vPL86c/CGTN-Documentary.png" group-title="CHANNEL | INDONESIA VIP",CGTN Documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Shk5wc/abc-australia.png" group-title="CHANNEL | INDONESIA VIP",ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqccPVCX/cna.png" group-title="CHANNEL | INDONESIA VIP",CNA
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPL77hJ5/al-jazeera.png" group-title="CHANNEL | INDONESIA VIP",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wVwqH4G/Euronews.png" group-title="CHANNEL | INDONESIA VIP",Euro news
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1QJF2sK/france-24.png" group-title="CHANNEL | INDONESIA VIP",France 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t49ndyWC/CGTN.png" group-title="CHANNEL | INDONESIA VIP",CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q2Wn1jp/RT.png" group-title="CHANNEL | INDONESIA VIP",Russia Today
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0dD8MZ/arirang.png" group-title="CHANNEL | INDONESIA VIP",Arirang
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/wiontv.png" group-title="CHANNEL | INDONESIA VIP",Wion TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq-au4whdudWi4PK-_wP-4UXTvX2x4D4H5g&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Golf+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVQRXaV4mmzu6JElzDRkc10pu1d0kxQWVVg&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Football TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="CHANNEL | INDONESIA VIP",Balap
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png" group-title="CHANNEL | INDONESIA VIP",Historical Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/MOTOR%20RACING.jpg" group-title="CHANNEL | INDONESIA VIP",Motor Racing
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/horizon_sports.png" group-title="CHANNEL | INDONESIA VIP",Horizon Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Fight TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0IVntvUjuTWG5zm3EUuIRzgYmuY92v_6Q&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",IDCyclist
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4LZwmwUHgXivUCnufIZ6xjD4ZV35YFKXUw&usqp=CAU" group-title="CHANNEL | INDONESIA VIP",Xtrem Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",Sports TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg" group-title="CHANNEL | INDONESIA VIP",Speed TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="CHANNEL | INDONESIA VIP", DISCOVERY SCI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mobibase.com/wp-content/themes/mobibase/assets/images/series_zone.png" group-title="CHANNEL | INDONESIA VIP", SERIES ZONE
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCYx67ZQ3mcE0FVmb1HJjlSAMIqX15_Nhlg&s" group-title="CHANNEL | INDONESIA VIP", GEM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33swb7abmMoHOyTrZZOYNRBr1VqHUqPrsmQ&s" group-title="CHANNEL | INDONESIA VIP", CINEMA WORLD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CHANNEL | INDONESIA VIP", AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://about.vidio.com/wp-content/uploads/2022/01/tvn.jpg" group-title="CHANNEL | INDONESIA VIP", tvN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/zee.png" group-title="CHANNEL | INDONESIA VIP", ZEE BIOSKOP
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjD5Zz7f8Hb4ap9aDWnuZwrreCjgQhgpdeg&s" group-title="CHANNEL | INDONESIA VIP", WARNER TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPQ_RJkJta2c4h38-UFBDG1gT1CtqBJY2JQ&s" group-title="CHANNEL | INDONESIA VIP", TECHSTROM
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EuPsdSh9zFZe3zwd7hP_CEEf9UdkI9B5EA&s" group-title="CHANNEL | INDONESIA VIP", SUPERYATCH TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
